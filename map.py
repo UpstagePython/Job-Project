@@ -3,10 +3,12 @@ import pandas as pd
 import json
 import requests
 import pydeck as pdk
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
 # Geocoding API를 통해 주소를 위도, 경도로 변환하는 함수
 def geocode(address):
-    api_key = 'API_KEY'  # Google Maps API 키
+    api_key = 'API-KEY'  # Google Maps API 키
     base_url = f'https://maps.googleapis.com/maps/api/geocode/json?address={address}&key={api_key}'
     response = requests.get(base_url)
     data = response.json()
@@ -22,8 +24,11 @@ def load_jobs_from_json(json_filename):
         jobs = json.load(file)
     return jobs
 
+# 분석할 데이터의 키워드 및 스트림릿 셀렉트 박스로 제작
+keyword = st.selectbox('키워드를 선택하세요', ['app', 'web', 'dba', 'server', 'machine', 'front', 'hard', 'publisher'])
+
 # JSON 파일 이름
-json_filename = 'Crawling/job_data2.json'
+json_filename = f'CrawlingData/data/json/{keyword}_merge.json'
 
 # JSON 파일에서 채용 정보 데이터를 읽어오기
 jobs = load_jobs_from_json(json_filename)
@@ -52,7 +57,7 @@ layer = pdk.Layer(
     data=map_data,
     get_position=['lon', 'lat'],
     get_color=[255, 0, 0],  # 마커 색상은 빨간색으로 설정
-    get_radius=300,  # 마커의 반경
+    get_radius=150,  # 마커의 반경
     pickable=True,
     tooltip=True
 )
@@ -74,3 +79,21 @@ r = pdk.Deck(
 
 # 스트림릿을 통해 pydeck 맵 표시
 st.pydeck_chart(r)
+
+# 워드 클라우드 생성을 위한 채용 제목 문자열 결합
+title_text = ' '.join(job['title'] for job in jobs)
+
+# 한글 폰트 경로를 지정하여 워드 클라우드 생성
+font_path = '/Library/Fonts/AppleGothic.ttf'
+wordcloud = WordCloud(
+    font_path=font_path,  # 한글 폰트 경로 지정
+    width=800,
+    height=400,
+    background_color='white'
+).generate(title_text)
+
+# 워드 클라우드 시각화
+plt.figure(figsize=(10, 5))
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.axis('off')
+st.pyplot(plt)

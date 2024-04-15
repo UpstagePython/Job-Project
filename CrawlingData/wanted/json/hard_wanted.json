@@ -1,0 +1,410 @@
+[
+    {
+        "company": "휴로틱스",
+        "title": "임베디드 소프트웨어/펌웨어 시니어 개발자",
+        "career": "경력 2-20년",
+        "address": "서울특별시 동작구",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215444"
+    },
+    {
+        "company": "휴로틱스",
+        "title": "임베디드 소프트웨어/펌웨어 주니어 개발자",
+        "career": "경력 2-20년",
+        "address": "서울특별시 동작구",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/203705"
+    },
+    {
+        "company": "주밍코리아",
+        "title": "임베디드 모션제어 S/W개발자",
+        "career": "경력 5-10년",
+        "address": "서울시 강서구 공항대로 237,에이스타워 마곡 ,810호",
+        "deadline": "2024.05.31",
+        "link": "https://www.wanted.co.kr/wd/179796"
+    },
+    {
+        "company": "모노리스",
+        "title": "임베디드 어플리케이션 개발자",
+        "career": "경력 5-12년",
+        "address": "영등포구 여의대로 108, 파크원타워1 5층 스파크플러스",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/151961"
+    },
+    {
+        "company": "반프",
+        "title": "R&D / C 기반 임베디드 SW 엔지니어",
+        "career": "신입-경력 10년",
+        "address": "서울시 강남구 역삼로 175, 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/205706"
+    },
+    {
+        "company": "아이티엑스-에이아이(ITX-AI)",
+        "title": "임베디드 리눅스 FW개발자",
+        "career": "경력 1-10년",
+        "address": "서울 금천구 가산디지털1로 212코오롱디지탈타워 애스턴 906 (가산동)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/209770"
+    },
+    {
+        "company": "보스반도체",
+        "title": "임베디드 시스템 SW Engineer",
+        "career": "경력 3-20년",
+        "address": "경기도 성남시 분당구 판교로 255번길 35 실리콘파크 3층",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/142137"
+    },
+    {
+        "company": "하이얼코리아알앤디(GE Appliances)",
+        "title": "가전 임베디드 소프트웨어 개발자",
+        "career": "경력 4-9년",
+        "address": "경기도 성남시 분당구 대왕판교로 644번길 49",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/161794"
+    },
+    {
+        "company": "에타일렉트로닉스",
+        "title": "임베디드 S/W, F/W 엔지니어",
+        "career": "경력 1-10년",
+        "address": "서울 용산구 원효로 271, 삼이빌딩 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/99005"
+    },
+    {
+        "company": "아이엠에스이",
+        "title": "임베디드 개발자",
+        "career": "경력 5-15년",
+        "address": "경기도 성남시 분당구 판교로256번길 9-22",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/203997"
+    },
+    {
+        "company": "넷커스터마이즈",
+        "title": "임베디드 SW 개발자 (신입)",
+        "career": "신입",
+        "address": "대전시 유성구 유성대로 1184번길 29",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208508"
+    },
+    {
+        "company": "폴라리스쓰리디(Polaris3D)",
+        "title": "자율주행 임베디드 소프트웨어 개발자 (서울)",
+        "career": "경력 1-5년",
+        "address": "서울시 강남구 봉은사로 524 인터컨티넨탈 서울 스파크플러스 코엑스점",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207639"
+    },
+    {
+        "company": "엔쓰리엔(N3N)",
+        "title": "System Engineer (Linux, 임베디드)",
+        "career": "신입",
+        "address": "강남구 강남대로162길 41-18",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212658"
+    },
+    {
+        "company": "아폴론",
+        "title": "임베디드 시스템 개발자",
+        "career": "경력 2-10년",
+        "address": "마곡중앙8로 14 408호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/202627"
+    },
+    {
+        "company": "엑소시스템즈",
+        "title": "임베디드 개발자 (병역특례 가능)",
+        "career": "경력 3-7년",
+        "address": "성남시 수정구 창업로 43, 판교글로벌비즈센터 A803",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/19099"
+    },
+    {
+        "company": "유비씨",
+        "title": "임베디드 개발자",
+        "career": "경력 3-20년",
+        "address": "경기도 안양시 동안구 시민대로 248번길 25, 안양창조산업진흥원 1006호",
+        "deadline": "2024.06.04",
+        "link": "https://www.wanted.co.kr/wd/208520"
+    },
+    {
+        "company": "넷커스터마이즈",
+        "title": "임베디드 SW 개발자 (1~10년)",
+        "career": "경력 1-10년",
+        "address": "대전시 유성구 유성대로 1184번길 29",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208509"
+    },
+    {
+        "company": "오케이포스",
+        "title": "임베디드 S/W 개발",
+        "career": "경력 5-10년",
+        "address": "서울시 금천구 벚꽃로 234, 에이스하이엔드6차 801 ~ 802호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/197666"
+    },
+    {
+        "company": "넷커스터마이즈",
+        "title": "신호처리 관련 FPGA Logic / 임베디드 SW 개발자 (신입)",
+        "career": "신입",
+        "address": "대전시 유성구 유성대로 1184번길 29",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208512"
+    },
+    {
+        "company": "긴트",
+        "title": "[200억↑투자] 임베디드소프트웨어 시니어 개발자",
+        "career": "경력 5-12년",
+        "address": "경기도 성남시 분당구 판교로 228번길 17, 판교벤처밸리 2단지 1동 4층 긴트",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/209379"
+    },
+    {
+        "company": "긴트",
+        "title": "[200억↑투자] 임베디드소프트웨어 주니어 개발자",
+        "career": "신입-경력 5년",
+        "address": "경기도 성남시 분당구 판교로 228번길 17, 판교벤처밸리 2단지 1동 4층 긴트",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/131064"
+    },
+    {
+        "company": "스카이랩스(SkyLabs)",
+        "title": "[400억↑투자] 임베디드 펌웨어 개발자",
+        "career": "경력 1-10년",
+        "address": "성남시 분당구 판교로 255번길 58, 씨즈타워 703호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/192800"
+    },
+    {
+        "company": "니어스랩",
+        "title": "임베디드 시스템 프로그래머",
+        "career": "경력 3-10년",
+        "address": "서울시 송파구 정의로8길 9 AJ빌딩 본관 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/157501"
+    },
+    {
+        "company": "플로틱",
+        "title": "Embedded Software Engineer (로봇 임베디드 개발)",
+        "career": "경력 3-10년",
+        "address": "서울특별시 성동구 성수일로12길 1, 성옥빌딩 1층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/135145"
+    },
+    {
+        "company": "삼흥시스템",
+        "title": "임베디드 HW/SW 개발자",
+        "career": "경력 1-20년",
+        "address": "대구광역시 서구 와룡로 439-10",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/206707"
+    },
+    {
+        "company": "비알랩",
+        "title": "[100억↑투자] 임베디드 개발자(SW)",
+        "career": "경력 5-10년",
+        "address": "서울특별시 강남구 삼성동 141 성원타워 16층 비알랩",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/180119"
+    },
+    {
+        "company": "텔레픽스",
+        "title": "[대전]임베디드 시스템 엔지니어(신입가능)",
+        "career": "신입",
+        "address": "유성구 테크노4로 17",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/209322"
+    },
+    {
+        "company": "모본",
+        "title": "임베디드 F/W 개발 엔지니어 (신입)",
+        "career": "신입",
+        "address": "서울시 강남구 삼성동 140-28덕우빌딩 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/181487"
+    },
+    {
+        "company": "가온브로드밴드",
+        "title": "임베디드 리눅스 개발자",
+        "career": "경력 5-15년",
+        "address": "경기도 성남시 분당구 성남대로 884-3, 4층( 야탑동, 가온미디어빌딩)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/196765"
+    },
+    {
+        "company": "아이코어",
+        "title": "머신비전 임베디드 개발자 (펌웨어, FPGA), 전문연구요원 가능",
+        "career": "경력 5-10년",
+        "address": "경기도 안양시 동안구 엘에스로 116번길 25-32 안양SKV1센터 1043호",
+        "deadline": "2024.05.14",
+        "link": "https://www.wanted.co.kr/wd/196838"
+    },
+    {
+        "company": "반프",
+        "title": "R&D / FW 펌웨어 임베디드",
+        "career": "경력 3-10년",
+        "address": "서울시 강남구 역삼로 175, 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/153270"
+    },
+    {
+        "company": "폴라리스쓰리디(Polaris3D)",
+        "title": "자율주행 임베디드 소프트웨어 개발자 (포항) 전문연 가능",
+        "career": "경력 1-5년",
+        "address": "포항시 남구 청암로 87, 702호 (지곡동, 체인지업 그라운드)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/183467"
+    },
+    {
+        "company": "슈어소프트테크",
+        "title": "[제어기개발팀] 임베디드 SW 개발(판교)",
+        "career": "경력 3-8년",
+        "address": "경기도 성남시 수정구 금토로80번길 37 인피니티타워 E동",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/198927"
+    },
+    {
+        "company": "트루엔",
+        "title": "임베디드 리눅스 응용 프로그램 개발(펌웨어)",
+        "career": "경력 6-12년",
+        "address": "서울 구로구 디지털로33길28",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/192274"
+    },
+    {
+        "company": "펀진",
+        "title": "임베디드 시스템 미들웨어 개발자 (안드로드/리눅스)",
+        "career": "경력 5-20년",
+        "address": "서울시 성동구 연무장5가길 7 현대테라스타워 East동 13층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/185333"
+    },
+    {
+        "company": "옵트에이아이",
+        "title": "임베디드 AI 개발자 (C++) (신입~2년이상)",
+        "career": "신입-경력 2년",
+        "address": "강서구 마곡중앙10로 10 LG사이언스파크E10동 슈퍼스타트랩11호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/187812"
+    },
+    {
+        "company": "씨브이네트",
+        "title": "임베디드 OS 개발자",
+        "career": "경력 3-10년",
+        "address": "서울특별시 송파구 송파대로 155, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/108222"
+    },
+    {
+        "company": "스카이랩스(SkyLabs)",
+        "title": "[400억↑투자] 임베디드 펌웨어 개발자 (신입)",
+        "career": "신입",
+        "address": "성남시 분당구 판교로 255번길 58, 씨즈타워 703호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/188190"
+    },
+    {
+        "company": "바딧",
+        "title": "임베디드(HW) 개발자",
+        "career": "경력 2-10년",
+        "address": "서울특별시 금천구 가산디지털1로 25 대륭테크노타운17차 906-2호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/185785"
+    },
+    {
+        "company": "바딧",
+        "title": "임베디드(HW) 개발자 - 신입",
+        "career": "신입",
+        "address": "서울특별시 금천구 가산디지털1로 25 대륭테크노타운17차 906-2호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/185787"
+    },
+    {
+        "company": "드림에이스",
+        "title": "임베디드 소프트웨어 Application개발",
+        "career": "경력 3-15년",
+        "address": "경기 안양시 동안구 엘에스로 122, 호계 데시앙플렉스 521호",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/212192"
+    },
+    {
+        "company": "슈어소프트테크",
+        "title": "[선행SW개발팀] 임베디드 SW 및 MBD 개발",
+        "career": "경력 3-8년",
+        "address": "유성구 가정로 218 융합기술연구생산센터 4층 409호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/198926"
+    },
+    {
+        "company": "옵트에이아이",
+        "title": "임베디드 AI 개발자 (C++)",
+        "career": "경력 1-12년",
+        "address": "강서구 마곡중앙10로 10 LG사이언스파크E10동 슈퍼스타트랩11호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/183721"
+    },
+    {
+        "company": "에스알브이포지셔닝",
+        "title": "임베디드 개발자(3년 이상)",
+        "career": "경력 3-5년",
+        "address": "서울특별시 성동구",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/144230"
+    },
+    {
+        "company": "아이비스",
+        "title": "임베디드 개발자",
+        "career": "경력 2-15년",
+        "address": "수원시 영통구 창룡대로 256번길50 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/108453"
+    },
+    {
+        "company": "이스트오토",
+        "title": "임베디드 개발자",
+        "career": "경력 2-5년",
+        "address": "용인시 기흥구",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/153258"
+    },
+    {
+        "company": "아르고스다인",
+        "title": "C/C++, C# 소프트웨어(임베디드리눅스 개발자)",
+        "career": "신입",
+        "address": "용인시 기흥구 기흥로 58-1, A동 1306호(기흥ICT밸리 SKV1)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/56616"
+    },
+    {
+        "company": "크래블",
+        "title": "임베디드(펌웨어) 개발자",
+        "career": "경력 4-20년",
+        "address": "서울특별시 성동구 성수일로 10 서울숲 ITCT 1602호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/130116"
+    },
+    {
+        "company": "오토엘(AutoL)",
+        "title": "[100억↑투자] 임베디드 소프트웨어 개발",
+        "career": "경력 3-15년",
+        "address": "경기도 성남시 수정구 금토로 80번길 11 판교이노베이션랩(지식산업센터) 305호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/99326"
+    },
+    {
+        "company": "새영테크놀로지",
+        "title": "임베디드 프로그램 개발자",
+        "career": "경력 1-25년",
+        "address": "한국철도기술연구원",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/147028"
+    },
+    {
+        "company": "에이디알에프코리아",
+        "title": "GUI, FW 및 SW개발 / 임베디드 리룩스기반 FW개발/FPGA/HW개발",
+        "career": "경력 1-10년",
+        "address": "경기도 이천시 백사면 이여로 196-16",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/90724"
+    }
+]

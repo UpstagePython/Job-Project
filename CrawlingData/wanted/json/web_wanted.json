@@ -1,0 +1,594 @@
+[
+    {
+        "company": "코드잇(codeit)",
+        "title": "[100억↑투자] 교육 PM [웹 교육]",
+        "career": "경력 1-9년",
+        "address": "중구 청계천로 100 시그니쳐타워 동관 10층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215297"
+    },
+    {
+        "company": "페이타랩(패스오더)",
+        "title": "[200억↑투자] 웹 프론트엔드 개발자(JavaScript, React) (서울)",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 강남구 영동대로 85길 34, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/45651"
+    },
+    {
+        "company": "콘텐츠퍼스트(Tappytoon/태피툰)",
+        "title": "웹툰 번역 코디네이터(번역일정 및 이슈관리)",
+        "career": "신입",
+        "address": "서울 강남구 테헤란로 211, 6층(역삼동, 한국고등교육재단)",
+        "deadline": "2024.05.21",
+        "link": "https://www.wanted.co.kr/wd/170694"
+    },
+    {
+        "company": "샐러드랩",
+        "title": "이커머스 솔루션 웹 Frontend 개발자",
+        "career": "신입-경력 7년",
+        "address": "강남구 테헤란로 78길 14-11 8층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/201712"
+    },
+    {
+        "company": "키트웍스",
+        "title": "백엔드 웹프로그래머 (Spring, MSA) 1~3년",
+        "career": "경력 1-3년",
+        "address": "영등포구 양평로 20 타워020 6층",
+        "deadline": "2024.04.28",
+        "link": "https://www.wanted.co.kr/wd/215156"
+    },
+    {
+        "company": "티온네트워크",
+        "title": "앱/웹 서비스운영 매니저",
+        "career": "신입-경력 2년",
+        "address": "서울시 강남구 강남대로456, 14층(역삼동, 한석타워)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215086"
+    },
+    {
+        "company": "자이온아이티에스",
+        "title": "1~4년차 UI/UX 및 웹 디자이너",
+        "career": "경력 1-4년",
+        "address": "서울특별시 서초구 반포대로22길 39 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215022"
+    },
+    {
+        "company": "테일크루(Talecrew)",
+        "title": "웹툰 메인 작화가",
+        "career": "신입",
+        "address": "경기도 성남시 분당구 판교역로 230 삼환하이펙스 B동 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215008"
+    },
+    {
+        "company": "키트웍스",
+        "title": "프론트엔드 웹프로그래머 (Vue.js, React) 1~4년차",
+        "career": "경력 1-4년",
+        "address": "영등포구 양평로 20 타워020 6층",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/214985"
+    },
+    {
+        "company": "뉴플로이",
+        "title": "웹프론트 개발자(react)",
+        "career": "신입",
+        "address": "서울특별시 강남구 학동로7길 5, 베틀빌딩 4층 (논현동)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/202005"
+    },
+    {
+        "company": "아이비베리",
+        "title": "웹 프론트엔드 개발",
+        "career": "경력 1-25년",
+        "address": "구로구 디지털로33길 50",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/117677"
+    },
+    {
+        "company": "모멘티",
+        "title": "웹/앱 UI/UX 디자이너 (1~5년)",
+        "career": "경력 1-5년",
+        "address": "서울특별시 강남구 역삼동 605-23, 4층 (송호빌딩)",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/199393"
+    },
+    {
+        "company": "모멘티",
+        "title": "웹/앱 UI/UX 디자이너",
+        "career": "신입",
+        "address": "서울특별시 강남구 역삼동 605-23, 4층 (송호빌딩)",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/134692"
+    },
+    {
+        "company": "클라우드호스피탈",
+        "title": "프론트엔드 웹 개발자 React.js / Next.js (1~3년)",
+        "career": "경력 1-3년",
+        "address": "서울 서초구 서초대로 398 BNK 디지털 타워 (패스트파이브 강남3호점) 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207121"
+    },
+    {
+        "company": "메가스터디교육",
+        "title": "러셀 웹서비스 운영관리 시스템 운영/기획/유지보수",
+        "career": "신입-경력 4년",
+        "address": "서울 서초구 효령로 321 (덕원빌딩)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/214326"
+    },
+    {
+        "company": "더앤트",
+        "title": "웹툰제작사 커뮤니티매니저(총무) (1년 계약직)",
+        "career": "신입",
+        "address": "성동구 아차산로 126, 15층",
+        "deadline": "2024.04.19",
+        "link": "https://www.wanted.co.kr/wd/212860"
+    },
+    {
+        "company": "리얼드로우",
+        "title": "웹툰 작가",
+        "career": "경력 1-10년",
+        "address": "서울특별시 마포구 마포대로 122, 프론트원 17층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/199826"
+    },
+    {
+        "company": "리얼드로우",
+        "title": "웹툰 PD",
+        "career": "경력 1-10년",
+        "address": "서울특별시 마포구 마포대로 122, 프론트원 17층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213920"
+    },
+    {
+        "company": "메타실드",
+        "title": "네트워크 보안 또는 웹 취약점 분석가",
+        "career": "신입",
+        "address": "경기도 하남시 미사강변한강로 135 9층 953호(미사강변스카이폴리스)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207882"
+    },
+    {
+        "company": "크리에이티브 디스패치",
+        "title": "웹디자이너",
+        "career": "신입",
+        "address": "서울특별시 강남구 논현로10길 28 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213983"
+    },
+    {
+        "company": "에이치앤에프",
+        "title": "웹디자이너",
+        "career": "경력 1-3년",
+        "address": "서울특별시 서초구 강남대로 99길 57, 화림빌딩 3F,4F",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/205614"
+    },
+    {
+        "company": "서밋코퍼레이션",
+        "title": "웹/앱 디자인",
+        "career": "경력 1-2년",
+        "address": "경기 안양시 동안구 학의로 282 1427호",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/213859"
+    },
+    {
+        "company": "비알피알컴퍼니",
+        "title": "웹/영상 콘텐츠 디자이너",
+        "career": "경력 1-2년",
+        "address": "서울 성동구 서울숲4길 28-19",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/213597"
+    },
+    {
+        "company": "메가스터디교육",
+        "title": "웹 서비스 기획",
+        "career": "경력 1-5년",
+        "address": "서울 서초구 효령로 321 (덕원빌딩)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/213626"
+    },
+    {
+        "company": "넥스트그라운드",
+        "title": "앱/웹 UIUX 서비스 기획자",
+        "career": "경력 1-3년",
+        "address": "서울 강남구 역삼로 172, 마루360",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213521"
+    },
+    {
+        "company": "리젠부스터",
+        "title": "웹디자이너",
+        "career": "경력 1-3년",
+        "address": "서울시 강남구 테헤란로 123, 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213196"
+    },
+    {
+        "company": "라우프",
+        "title": "디지털 마케팅 그래픽 웹 디자이너",
+        "career": "경력 1-3년",
+        "address": "서울시 성동구 왕십리로 58, 519호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213222"
+    },
+    {
+        "company": "아이티엑스-에이아이(ITX-AI)",
+        "title": "웹개발자",
+        "career": "경력 1-10년",
+        "address": "서울 금천구 가산디지털1로 212코오롱디지탈타워 애스턴 906 (가산동)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213144"
+    },
+    {
+        "company": "브이티피엘",
+        "title": "뷰티 콘텐츠 웹 디자이너",
+        "career": "경력 1-5년",
+        "address": "서울특별시 강남구 테헤란로 2길 27",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/176511"
+    },
+    {
+        "company": "투비콘",
+        "title": "웹 개발자(ASP.NET, C#)",
+        "career": "경력 1-5년",
+        "address": "서울특별시 중구 세종대로 136",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/175818"
+    },
+    {
+        "company": "콘텐츠퍼스트(Tappytoon/태피툰)",
+        "title": "웹툰 영어 번역물 검수 (퀄리티 및 오역관리)",
+        "career": "신입-경력 5년",
+        "address": "서울 강남구 테헤란로 211, 6층(역삼동, 한국고등교육재단)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207863"
+    },
+    {
+        "company": "에이럭스",
+        "title": "소프트웨어 개발 엔지니어 (웹, PHP)",
+        "career": "경력 1-8년",
+        "address": "서울특별시 도봉구 창동 1-28 씨드큐브",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212891"
+    },
+    {
+        "company": "테라바이오텍코리아",
+        "title": "외국계 영양제 브랜드 디자이너(웹/패키지)",
+        "career": "경력 1-6년",
+        "address": "서울시 송파구 송파대로 167, 문정역 테라타워 B동",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/210871"
+    },
+    {
+        "company": "더스크랙",
+        "title": "[디자이너] UX/UI 웹디 (1년 이상)",
+        "career": "경력 1-3년",
+        "address": "서울특별시 강서구 마곡동로62 마곡사이언스타워1 4층 더스크랙",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212376"
+    },
+    {
+        "company": "앱실론코퍼레이션",
+        "title": "웹툰 컨텐츠 기획 및 PM /AE (영어 스페인어 불어 원어민수준)",
+        "career": "경력 1-5년",
+        "address": "강남구 논현로 79길 73, 1층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/198218"
+    },
+    {
+        "company": "윈글로리",
+        "title": "패션 스포츠 의류 브랜드 웹디자이너",
+        "career": "경력 1-5년",
+        "address": "서울 서초구 언남길 63",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211464"
+    },
+    {
+        "company": "콘텐츠퍼스트(Tappytoon/태피툰)",
+        "title": "웹툰 영어 그래픽 식자 담당자",
+        "career": "신입-경력 5년",
+        "address": "서울 강남구 테헤란로 211, 6층(역삼동, 한국고등교육재단)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/211595"
+    },
+    {
+        "company": "래티브",
+        "title": "프론트엔드 웹 개발자",
+        "career": "경력 1-5년",
+        "address": "서울시 강남구 논현로 131길 20 스파이더센터",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/166648"
+    },
+    {
+        "company": "제이펀",
+        "title": "웹디자이너",
+        "career": "경력 1-10년",
+        "address": "가산디지털1로 128, 1001호",
+        "deadline": "2024.04.26",
+        "link": "https://www.wanted.co.kr/wd/211414"
+    },
+    {
+        "company": "바이잇",
+        "title": "[러븀] 웹디자이너 & UI/UX",
+        "career": "경력 1-4년",
+        "address": "서울특별시 강남구 도곡동 543-1(지오빌딩) 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/194262"
+    },
+    {
+        "company": "본투윈",
+        "title": "신규 여성의류 쇼핑몰 웹디자이너 (1년차 이상)",
+        "career": "경력 1-5년",
+        "address": "서울 강남구 신사동 563-21 4-5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211196"
+    },
+    {
+        "company": "와이케이랩스",
+        "title": "웹 디자이너",
+        "career": "경력 1-3년",
+        "address": "성동구 아차산로15길 52 삼환디지털벤처타워 607호",
+        "deadline": "2024.04.16",
+        "link": "https://www.wanted.co.kr/wd/176629"
+    },
+    {
+        "company": "스쿨버스",
+        "title": "모바일/웹 클라이언트(flutter) 개발자(1년)",
+        "career": "신입",
+        "address": "서울 공항대로 194 퀸즈파크12차 8층 813, 814, 815호",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/201909"
+    },
+    {
+        "company": "나트리스",
+        "title": "웹개발자",
+        "career": "경력 1-7년",
+        "address": "영등포구 여의대로108 파크원타워1, 47층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/210112"
+    },
+    {
+        "company": "페이타랩(패스오더)",
+        "title": "[200억↑투자] 웹 프론트엔드 개발자(병역특례/산업기능요원/보충역/전직)",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 강남구 영동대로 85길 34, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/78227"
+    },
+    {
+        "company": "메가스터디교육",
+        "title": "공무원 웹개발자",
+        "career": "신입-경력 8년",
+        "address": "서울 서초구 효령로 321 (덕원빌딩)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/209121"
+    },
+    {
+        "company": "다이노즈",
+        "title": "React / Next.js 웹개발자 (1년 이상)",
+        "career": "경력 1-2년",
+        "address": "서울특별시 강남구 역삼로180, 마루180 2층 A셀",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208965"
+    },
+    {
+        "company": "에이치알엘",
+        "title": "브랜드사 마케팅팀 웹디자이너",
+        "career": "신입",
+        "address": "서울시 송파구 오금로 520 다온빌딩 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208871"
+    },
+    {
+        "company": "브이에이트코프",
+        "title": "웹 디자이너",
+        "career": "신입-경력 5년",
+        "address": "김포시 구래동 6877-5",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208071"
+    },
+    {
+        "company": "아이디테크",
+        "title": "Web(웹) 개발자",
+        "career": "경력 1-5년",
+        "address": "서울 강서구 공항대로 228, 리더스타워 605호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207267"
+    },
+    {
+        "company": "굿먼데이",
+        "title": "웹/콘텐츠 디자이너",
+        "career": "신입-경력 5년",
+        "address": "서울특별시 강남구 역삼로 558 3층",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/207281"
+    },
+    {
+        "company": "위메이드(WEMADE)",
+        "title": "[전기아이피] 게임 웹 서비스기획",
+        "career": "경력 1-3년",
+        "address": "경기도 성남시 분당구 대왕판교로 644번길 49 위메이드타워",
+        "deadline": "2024.05.21",
+        "link": "https://www.wanted.co.kr/wd/207085"
+    },
+    {
+        "company": "아이엠에스커넥트",
+        "title": "FMS(차량관제)플랫폼 프론트엔드 개발(웹/앱 UI) 주니어(~3년차)",
+        "career": "경력 1-3년",
+        "address": "서울 광진구 아차산로355",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/156079"
+    },
+    {
+        "company": "팬마음",
+        "title": "[병역특례 보충역] 웹 프론트엔드 개발자",
+        "career": "신입-경력 2년",
+        "address": "강남구 역삼로3길 17-6, 10층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/205591"
+    },
+    {
+        "company": "리디(RIDI)",
+        "title": "웹툰 PD",
+        "career": "신입",
+        "address": "서울특별시 강남구 역삼동 702-28 어반벤치빌딩",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/175725"
+    },
+    {
+        "company": "앱실론코퍼레이션",
+        "title": "디지털 마케팅 광고 소재 기획자, 2D 디자이너 (패션, 뷰티, 건기식, 웹툰)",
+        "career": "경력 1-7년",
+        "address": "강남구 논현로 79길 73, 1층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/198812"
+    },
+    {
+        "company": "비티맥기네스번지리미티드",
+        "title": "글로벌 웹사이트(플랫폼) 웹기획(UI/UX기획) 및 콘텐츠 기획(운영)",
+        "career": "경력 1-15년",
+        "address": "서울특별시 송파구 올림픽로 295(삼성생명빌딩 12층)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/198142"
+    },
+    {
+        "company": "테일크루(Talecrew)",
+        "title": "웹소설 작가",
+        "career": "신입-경력 10년",
+        "address": "경기도 성남시 분당구 판교역로 192번길 14, 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/197046"
+    },
+    {
+        "company": "엔츠",
+        "title": "B2B 탄소회계 SaaS 웹 개발자 (신입)",
+        "career": "신입",
+        "address": "서울 강남구 논현로87길 15-6",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/181388"
+    },
+    {
+        "company": "엔츠",
+        "title": "B2B 탄소회계 SaaS 웹 개발자",
+        "career": "경력 1-10년",
+        "address": "서울 강남구 논현로87길 15-6",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/136516"
+    },
+    {
+        "company": "제너럴커피코디네이터",
+        "title": "UXUI 디자이너 (웹, 모바일)",
+        "career": "경력 1-2년",
+        "address": "서울특별시 강남구 압구정로4길 13-11",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/196227"
+    },
+    {
+        "company": "알잘",
+        "title": "컨텐츠 디자이너 (상세페이지/웹/광고)",
+        "career": "경력 1-5년",
+        "address": "일직로 43, Gidc B동 1907~1909호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/194816"
+    },
+    {
+        "company": "쏘핏(sofitCorp.)",
+        "title": "웹/앱 서비스 및 콘텐츠 기획 담당자",
+        "career": "경력 1-5년",
+        "address": "신사동 521-7 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/188161"
+    },
+    {
+        "company": "후퍼",
+        "title": "PHP 웹 개발자",
+        "career": "경력 1-2년",
+        "address": "금천구 벚꽃로 298, 대륭포스트타워6차 806호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/192509"
+    },
+    {
+        "company": "한국직무능력평가연구소",
+        "title": "[신입] UI/UX, 웹디자이너",
+        "career": "신입",
+        "address": "서울시 서초구 반포대로 26길 5 SJ빌딩 B1,2,3,4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/188761"
+    },
+    {
+        "company": "콘센트릭스서비스코리아CATALYST",
+        "title": "글로벌웹분석관련개발자 (웹분석기술지원)",
+        "career": "경력 1-10년",
+        "address": "서울특별시 강남구 테헤란로 509, 엔씨타워 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/187472"
+    },
+    {
+        "company": "세포아소프트",
+        "title": "웹개발자",
+        "career": "신입",
+        "address": "서울시 서초구 서초대로 122 효찬빌딩 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/181466"
+    },
+    {
+        "company": "테일크루(Talecrew)",
+        "title": "웹소설 PD 및 작가",
+        "career": "신입-경력 10년",
+        "address": "경기도 성남시 분당구 판교역로 192번길 14, 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/177615"
+    },
+    {
+        "company": "와이낫애드컴퍼니",
+        "title": "디지털광고대행사 웹디자이너",
+        "career": "경력 1-3년",
+        "address": "마포구 상수동 341-14",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/180269"
+    },
+    {
+        "company": "링글잉글리시에듀케이션서비스",
+        "title": "웹 프론트엔드(React) 개발자",
+        "career": "경력 1-10년",
+        "address": "서초구 서초대로78길 22 홍우2빌딩 11층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/91906"
+    },
+    {
+        "company": "디에코컴퍼니",
+        "title": "웹디자이너",
+        "career": "신입-경력 5년",
+        "address": "서울특별시 강남구 논현로85길 29 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/142090"
+    },
+    {
+        "company": "호들",
+        "title": "웹디자이너",
+        "career": "신입-경력 5년",
+        "address": "서울특별시 봉은사로 541",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/101288"
+    },
+    {
+        "company": "단색",
+        "title": "웹디자이너 (1년이상)",
+        "career": "경력 1-3년",
+        "address": "서울시 마포구 월드컵북로 4길 51",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/59431"
+    },
+    {
+        "company": "한국직무능력평가연구소",
+        "title": "UI/UX, 웹디자이너",
+        "career": "경력 1-4년",
+        "address": "서울시 서초구 반포대로 26길 5 SJ빌딩 B1,2,3,4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/137636"
+    }
+]

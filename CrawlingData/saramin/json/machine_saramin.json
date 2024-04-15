@@ -1,0 +1,930 @@
+[
+    {
+        "company": "(주)띵스파이어",
+        "title": "머신러닝 개발자 채용 (DL/ML 기반 데이터 분석)",
+        "career": "신입·경력",
+        "address": "서울 용산구 한강대로96길 27, 1층",
+        "deadline": "~ 05/08(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47966135&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)아이와즈",
+        "title": "[AI] Python JAVA 머신러닝 개발자 모집",
+        "career": "경력무관",
+        "address": "대전 유성구 문지동 661-3, 217호",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47647080&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)연합시스템",
+        "title": "빅데이터 분석, AI (머신러닝,딥러닝) 가능한 팀원을 충원합니다",
+        "career": "경력1년↑",
+        "address": "경기 김포시 양촌읍 황금로323번길 26",
+        "deadline": "~ 04/24(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47969280&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "디앤아이 컨설팅㈜",
+        "title": "빅데이터 분석(머신러닝/딥러닝) 컨설턴트 정규직 채용",
+        "career": "경력무관",
+        "address": "서울 동대문구 청계천로 489 동일빌딩 9층",
+        "deadline": "~ 05/31(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47983376&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)에이젠코어",
+        "title": "[국방사업연구소] 빅데이터 분석 및 머신러닝&딥러닝 경력 채용",
+        "career": "경력2년↑",
+        "address": "경기 수원시 영통구 삼성로168번길 38 제일좋은빌딩 3층 에이젠코어",
+        "deadline": "~ 05/18(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47810899&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "아이헤이트플라잉버그스(주)",
+        "title": "머신러닝 엔지니어 / AI Researcher",
+        "career": "경력 5~10년",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=46733926&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "아이넷캅",
+        "title": "[경력·전문연] 딥러닝/머신러닝 개발자 채용(내일채움공제가능)",
+        "career": "신입·경력",
+        "address": "서울 송파구 문정동 642 송파테라타워 A동 1309~1312",
+        "deadline": "~ 04/23(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47645325&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)엔지온시스템",
+        "title": "비전검사 / 자동화 검사 / 머신러닝 제어 개발자 정규직 채용",
+        "career": "신입·경력",
+        "address": "경기 용인시 기흥구 기흥로 58-1 기흥ICT밸리 A동 1207호",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=45274061&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)액션파워",
+        "title": "인공지능/머신러닝 엔지니어 채용",
+        "career": "신입·경력",
+        "address": "서울 강남구 삼성로85길 26, V&S 14층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=43586786&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)코딧",
+        "title": "머신러닝 엔지니어 (3년이상)",
+        "career": "경력 3~7년",
+        "address": "서울 서초구 서초중앙로 18",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47615162&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)딥아이",
+        "title": "[딥테크R&D] 데이터분석/머신러닝/딥러닝 연구원 및 개발자 모집",
+        "career": "경력무관",
+        "address": "부산 기장군 기장읍 기장대로 535-6",
+        "deadline": "~ 05/09(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47960557&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)이글루코퍼레이션",
+        "title": "[연구개발본부] 인공지능/머신러닝 솔루션 엔진 개발 (5년이상)",
+        "career": "경력 5~10년",
+        "address": "서울 서초구 서초중앙로 18",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47469175&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)이노룰스",
+        "title": "머신러닝 경력 개발자",
+        "career": "경력 5~15년",
+        "address": "서울 강서구 강서로 396 팬코타워",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47751816&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)이스트소프트",
+        "title": "[ESTsoft] LLM 머신러닝 엔지니어 (경력)",
+        "career": "경력 3~7년",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47708182&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)슈프리마",
+        "title": "[슈프리마에이아이] 인공지능/머신러닝 경력직 채용공고",
+        "career": "경력 2~10년",
+        "address": "경기 부천시 부천로29번길 7 12층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=45787413&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)아이와즈",
+        "title": "[AI] Python JAVA 머신러닝 개발자 모집(석,박사 모집)",
+        "career": "경력",
+        "address": "대전 유성구 문지동 661-3, 217호",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47652219&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "엔에이치엔아카데미주식회사",
+        "title": "[NHN ACADEMY]빅데이터/머신러닝 강사 채용",
+        "career": "경력3년↑",
+        "address": "경기 성남시 분당구 대왕판교로645번길 16 NHN 플레이뮤지엄",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47790360&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)우리인재개발원",
+        "title": "IT개발·데이터(딥러닝/머신러닝外 3개 부문) 채용 공고",
+        "career": "경력2년↑",
+        "address": "경기 부천시 부천로29번길 7 12층",
+        "deadline": "~ 04/21(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47623039&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)비비파트너스",
+        "title": "[웨어러블 의료기기] 생체 신호 기반 딥러닝/머신러닝 모델 개발",
+        "career": "경력4년↑",
+        "address": "서울 강남구 논현로 507 성지하이츠3차빌딩",
+        "deadline": "~ 04/18(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47933709&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)비비파트너스",
+        "title": "[웨어러블 의료기기] 딥러닝/머신러닝 개발자 경력직 채용",
+        "career": "경력 7~13년",
+        "address": "서울 강남구 논현로 507 성지하이츠3차빌딩",
+        "deadline": "~ 05/07(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47988642&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)헬로서치",
+        "title": "유명 IT기업 머신러닝 엔지니어 모집",
+        "career": "경력3년↑",
+        "address": "서울 강남구 도곡동 416-2 남영빌딩 2층",
+        "deadline": "~ 05/03(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47922443&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)헤링스",
+        "title": "머신러닝 엔지니어 채용",
+        "career": "경력 3~6년",
+        "address": "서울 강남구 언주로 560 화물재단빌딩",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47930366&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)노르마",
+        "title": "[노르마] 머신러닝/인공지능 개발자",
+        "career": "경력 3~20년",
+        "address": "서울 성동구 아차산로15길 52 삼환디지털벤처타워 202~203호",
+        "deadline": "~ 05/08(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47948610&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)엘에스케이",
+        "title": "IT개발·데이터(Java, 머신러닝, JSP 외 2개 부문) 채용",
+        "career": "경력 1~15년",
+        "address": "서울 영등포구 문래동6가 24-1번지 에이스하이테크시티2차 1016~1018호",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47737967&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)린인파트너스",
+        "title": "코스닥상장 중견기업) 머신러닝 경력직",
+        "career": "경력2년↑",
+        "address": "경기 화성시 경기동로 1",
+        "deadline": "오늘마감",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47958128&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "휴먼교육센터",
+        "title": "[휴먼교육센터]머신러닝 빅데이터 강사 채용[서울 영등포 센터]",
+        "career": "경력3년↑",
+        "address": "서울 영등포구 영중로8길 6 성남빌딩 B동 6층",
+        "deadline": "~ 05/01(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47901112&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "구루넷",
+        "title": "[세계적 머신러닝 광고 솔루션 기업] Senior Software Engineer",
+        "career": "경력 5~20년",
+        "address": "경기 성남시 수정구 창업로 42 판교 제2테크노밸리 경기 기업성장센터 504호",
+        "deadline": "~ 05/05(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47935219&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "커리어서포트",
+        "title": "[코스닥기업] 인공지능/머신러닝 솔루션 엔진개발 - 경력직",
+        "career": "경력 5~8년",
+        "address": "서울 금천구 가산동 가산디지털2로 53",
+        "deadline": "~ 05/05(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47939126&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "코리아써치",
+        "title": "인공지능/머신러닝 솔루션 엔진 개발 경력 채용",
+        "career": "경력5년↑",
+        "address": "서울 송파구 정의로8길 7 한스빌딩",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47939620&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "디퍼런트에이치알",
+        "title": "딥러닝/머신러닝 개발 경력(전문연구요원 지원 가능)",
+        "career": "신입·경력",
+        "address": "경기 성남시 분당구 판교로 242",
+        "deadline": "~ 05/12(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47980558&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "에이치알포유(주)",
+        "title": "[ 코스닥 1조 8천억 반도체 기업, 동탄 ] 머신러닝",
+        "career": "경력 3~11년",
+        "address": "경기 화성시 동탄순환대로29길 25",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47950455&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "토니서치",
+        "title": "[국내보안기업] 인공지능/머신러닝 솔루션개발",
+        "career": "경력 5~8년",
+        "address": "서울 강남구 테헤란로 322 한신인터밸리24빌딩",
+        "deadline": "~ 05/02(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47946559&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "글로빛(주)",
+        "title": "글로빛논문컨설팅 빅데이터 분석,AI(머신러닝,딥러닝)박사 모집",
+        "career": "경력무관",
+        "address": "서울 서초구 사임당로 174 강남미래타워 7층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47700979&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)인텔리즈",
+        "title": "머신비전 및 딥러닝 응용 소프트웨어 개발자 모집",
+        "career": "경력",
+        "address": "서울 성동구 성수일로 89, 메타모르포빌딩 607호",
+        "deadline": "~ 04/23(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47644868&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)지브이랩",
+        "title": "머신 비전 프로그램 개발자 모집(딥러닝, 이미지 프로세싱, C++)",
+        "career": "경력무관",
+        "address": "서울 금천구 가산디지털1로 171, 가산 에스케이 브이원 센터, 506호",
+        "deadline": "~ 05/31(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47904960&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)핸디비전",
+        "title": "머신비전  개발자 , C/C++/C#, OpenCV, MIL, PYTHON, 딥러닝, AI",
+        "career": "경력무관",
+        "address": "경기 용인시 기흥구 흥덕1로 13, B동 703호",
+        "deadline": "~ 05/16(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47795203&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "(주)스카우트",
+        "title": "AI인프라 SW기업  머신 러닝 소프트웨어 엔지니어(대리~차장)",
+        "career": "경력 3~15년",
+        "address": "서울 서초구 서초대로 302",
+        "deadline": "오늘마감",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47933100&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=60a5f25b-f02f-44ad-919c-0471b6904aef"
+    },
+    {
+        "company": "아이비테크(주)",
+        "title": "머신 러닝(ML) 개발자 경력 채용",
+        "career": "경력3년↑",
+        "address": "경기 남양주시 순화궁로 272 동광 비즈타워 별내 316호,317호",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47971249&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)이몰디노",
+        "title": "[마이스터고 우대] 주니어 AI/ML 데이터 분석",
+        "career": "신입·경력",
+        "address": "경기 성남시 수정구 창업로 42 판교 제2테크노밸리 경기 기업성장센터 504호",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47889203&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)노타",
+        "title": "[ITS] Machine Learning Engineer Intern",
+        "career": "신입",
+        "address": "대전 유성구 문지로 193, 창조관 2219호",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47982622&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)미리디",
+        "title": "[미리캔버스] AI 모델 연구 (ML Researcher)",
+        "career": "경력 3~10년",
+        "address": "서울 구로구 경인로 590 아주빌딩 5층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47105617&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)써로마인드",
+        "title": "(주)써로마인드 개발자(FE,BE,ML) 모집공고",
+        "career": "경력2년↑",
+        "address": "서울 관악구 남부순환로 1802",
+        "deadline": "~ 05/31(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47899532&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)에너자이",
+        "title": "(전문연구요원 가능) ML Engineer / Researcher 채용 공고",
+        "career": "경력무관",
+        "address": "서울 강남구 테헤란로27길 27",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47747653&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)데이블",
+        "title": "Machine Learning Engineer (전문연구요원 현역 / 보충역)",
+        "career": "신입",
+        "address": "서울 강남구 테헤란로 507 WeWork빌딩, 4층",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47981665&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)크립토랩",
+        "title": "ML Engineer (인턴) 모집",
+        "career": "경력무관",
+        "address": "서울 관악구 관악로 1 서울대학교 501동 207호",
+        "deadline": "~ 05/11(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47741154&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)하이",
+        "title": "데이터 사이언티스트 [ML팀]",
+        "career": "경력 2~10년",
+        "address": "서울 서초구 강남대로 311 한화생명보험빌딩",
+        "deadline": "~ 04/24(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47858721&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "한국지멘스일렉트로닉디자인오토메이션(유)",
+        "title": "OPC(Machine Learning) Associate Application Engineer 신입",
+        "career": "신입",
+        "address": "경기 성남시 분당구 삼평동 664 판교미래에셋센터 7층",
+        "deadline": "~ 04/17(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47806242&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "세이지리서치(주)",
+        "title": "[전문연구요원 가능] Machine Learning Researcher",
+        "career": "경력무관",
+        "address": "서울 강남구 강남대로 374 3층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47942664&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)이몰디노",
+        "title": "[eMoldino] 주니어 AI/ML 데이터 분석 (마이스터고 졸업자 선호)",
+        "career": "신입",
+        "address": "서울 중구 한강대로 416 서울스퀘어 14층",
+        "deadline": "~ 04/28(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47888973&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)야놀자",
+        "title": "Machine Learning Engineer - Software Solution",
+        "career": "경력3년↑",
+        "address": "서울 강남구 대치동 1003 엠디엠타워",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47967029&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)엑스큐어넷",
+        "title": "생성형 AI 모델 연구 및 응용 개발(AI/ML) 채용",
+        "career": "경력 3~15년",
+        "address": "서울 은평구 가좌로 276",
+        "deadline": "~ 04/29(월)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47682522&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)씨이랩",
+        "title": "[(주)씨이랩] ML FW개발자 모집",
+        "career": "경력1년↑",
+        "address": "서울 강남구 언주로 617, 3,4층",
+        "deadline": "~ 04/26(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47873599&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)데이터메이커",
+        "title": "ML Engineer",
+        "career": "신입·경력",
+        "address": "대전 유성구 문지동 661-3, 217호",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=42972081&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)메디픽셀",
+        "title": "Senior Machine Learning Engineer (Vision)",
+        "career": "경력 5~15년",
+        "address": "서울 노원구 공릉동 172 서울과학기술대학교 테크노파크 내",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47698499&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)에스유스카우트",
+        "title": "[AI/ML] ML Engineer(강화학습)",
+        "career": "경력무관",
+        "address": "서울 강남구 테헤란로22길 14 , 7층",
+        "deadline": "~ 04/27(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47990400&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)에스유스카우트",
+        "title": "[AI/ML] Backend Engineer",
+        "career": "경력7년↑",
+        "address": "서울 강남구 역삼로 160 강남취창업허브센터",
+        "deadline": "~ 04/27(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47990386&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)에스유스카우트",
+        "title": "[AI/ML] ML Engineer",
+        "career": "경력3년↑",
+        "address": "서울 강남구 테헤란로 423, 11층",
+        "deadline": "~ 04/27(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47990387&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)데이블",
+        "title": "Senior Machine Learning Engineer (4년 이상)",
+        "career": "경력 4~10년",
+        "address": "서울 강남구 테헤란로 507 WeWork빌딩, 4층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47652978&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)클래스팅",
+        "title": "ML Ops 엔지니어",
+        "career": "경력2년↑",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "오늘마감",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47762848&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "삼정KPMG",
+        "title": "[삼정KPMG] AI Center ML/AI 엔지니어 경력직 채용",
+        "career": "경력3년↑",
+        "address": "서울 강남구 역삼1동 737 강남파이낸스센터 27층",
+        "deadline": "~ 05/04(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47934637&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)더블유컨셉코리아",
+        "title": "[W컨셉] TECH담당 검색&데이터 개발팀 AI/ML Engineer",
+        "career": "경력6년↑",
+        "address": "서울 강남구 테헤란로 231 센터필드 EAST동 20층",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47886513&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)라이앤캐처스",
+        "title": "추천엔지니어(ML 엔지니어)를 모집합니다",
+        "career": "경력5년↑",
+        "address": "경기 성남시 분당구 서현동 42",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47581862&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)마음에이아이",
+        "title": "(주)마음AI ML Engineer 채용",
+        "career": "경력무관",
+        "address": "경기 성남시 수정구 창업로40번길 30, 판교 IT센터 4층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47648482&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)아이이에스지",
+        "title": "포스코 사내 벤처 i-ESG AI/ML 개발자 모집",
+        "career": "경력 2~6년",
+        "address": "서울 용산구 한강대로 366 트윈시티 남산 A동 612호 아이이에스지",
+        "deadline": "~ 04/26(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47654323&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)메디픽셀",
+        "title": "Machine Learning Engineer (Vision)",
+        "career": "경력 2~10년",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47920450&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "바이플(주)",
+        "title": "미래가치를 함께 할 AI/ML 엔지니어  경력 모집",
+        "career": "경력2년↑",
+        "address": "서울 강남구 봉은사로 524 코엑스인터콘티넨탈서울 코엑스 B2 L120 바이플 주식회사",
+        "deadline": "~ 04/17(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47806403&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)에너자이",
+        "title": "[전문연구요원 가능] ML Engineer/Researcher 채용",
+        "career": "신입·경력",
+        "address": "경기 성남시 수정구 창업로 42 판교 제2테크노밸리 경기 기업성장센터 504호",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=42977901&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "세이지리서치(주)",
+        "title": "[전문연구요원 가능] Machine Learning Engineer",
+        "career": "경력 2~5년",
+        "address": "서울 강남구 강남대로 374 3층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47888261&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)뤼이드",
+        "title": "[상시지원] AI & ML Engineer",
+        "career": "경력2년↑",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "~ 12/31(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47247056&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)뤼이드",
+        "title": "Machine Learning Engineer",
+        "career": "경력1년↑",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "~ 12/31(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47247269&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "주식회사 써니웨이브텍(Sunny Wave Tech)",
+        "title": "Java Spring/ML 백엔드 개발 모집(관련업무 3년이상)",
+        "career": "경력 3~5년",
+        "address": "서울 서초구 동산로 7, 테팩스빌딩 4층 써니웨이브텍 기업부설연구소",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47762815&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)뤼튼테크놀로지스",
+        "title": "ML Engineer",
+        "career": "경력2년↑",
+        "address": "서울 서초구 서초대로77길 17, 1401호, 1402호, 1403호, 1404호, 1406호, 1413호, 1415호",
+        "deadline": "오늘마감",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47852702&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)뤼튼테크놀로지스",
+        "title": "ML Software Engineer",
+        "career": "경력1년↑",
+        "address": "서울 서초구 서초대로77길 17, 1401호, 1402호, 1403호, 1404호, 1406호, 1413호, 1415호",
+        "deadline": "오늘마감",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47860876&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)클래스팅",
+        "title": "Machine Learning 엔지니어",
+        "career": "경력무관",
+        "address": "경기 성남시 수정구 창업로 42 판교 제2테크노밸리 경기 기업성장센터 504호",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47841021&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)인바디",
+        "title": "InBody 신입사원 대규모 공개채용",
+        "career": "신입",
+        "address": "경기 하남시 미사강변중앙로7번안길 25, D동 610호, 611호, 612호",
+        "deadline": "~ 04/28(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47983008&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "한국쓰리엠(주)",
+        "title": "[한국쓰리엠] 경력사원 모집 안내",
+        "career": "경력",
+        "address": "서울 영등포구 의사당대로 82",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47896620&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "모비언트(주)",
+        "title": "[현대차그룹] 모비언트 사무직 신입 및 경력 채용",
+        "career": "신입·경력",
+        "address": "경남 창원시 성산구 정동로 153",
+        "deadline": "~ 04/17(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47977160&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=a149e9cb-07d2-4c05-94a1-d0170964763c"
+    },
+    {
+        "company": "(주)유라코퍼레이션",
+        "title": "[유라코퍼레이션, (주)유라] 2024년 4월 수시채용",
+        "career": "경력무관",
+        "address": "경기 성남시 분당구 판교로 308",
+        "deadline": "~ 04/22(월)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47957739&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "청오디피케이(주)",
+        "title": "도미노피자 각 부문(자회사 및 관계사 포함) 공개 채용",
+        "career": "경력",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "~ 05/06(월)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47896870&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)오누이",
+        "title": "[에듀테크 스타트업 오누이] 분야별 채용",
+        "career": "신입·경력",
+        "address": "서울 마포구 연희로 11, 4층",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47887841&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "주식회사 티시스 아이티",
+        "title": "태광그룹 ㈜티시스아이티 2024 IT 기술리더 영입",
+        "career": "경력",
+        "address": "서울 중구 남대문로 15 흥국생명보험 남대문 5호 별관",
+        "deadline": "~ 04/20(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47404895&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)에스에프에이",
+        "title": "SFA 2024년 2차 공개채용 (4월28일 접수마감)",
+        "career": "경력무관",
+        "address": "경기 화성시 동탄순환대로29길 25 에스에프에이",
+        "deadline": "~ 04/28(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47954018&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)코스콤",
+        "title": "2024년 상반기 신입/경력직원 공개채용",
+        "career": "신입·경력",
+        "address": "서울 영등포구 여의나루로4길 21",
+        "deadline": "~ 04/23(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47901922&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)드림텍",
+        "title": "2024년 신입/경력사원 공개채용",
+        "career": "신입·경력",
+        "address": "경기 성남시 분당구 황새울로 314",
+        "deadline": "~ 04/18(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47930275&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)디알텍",
+        "title": "2024년 신입 및 경력 채용",
+        "career": "신입·경력",
+        "address": "경기 성남시 중원구 둔촌대로541번길 29",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47887087&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(재)포항테크노파크",
+        "title": "(재)포항테크노파크 2024년 제1차 직원 채용 공고",
+        "career": "신입·경력",
+        "address": "경북 포항시 남구 지곡로 394",
+        "deadline": "~ 04/18(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47872456&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "하이투자증권(주)",
+        "title": "하이투자증권(주) 각 부문별 경력직 채용",
+        "career": "경력",
+        "address": "서울 금천구 가산디지털1로 146 1115호",
+        "deadline": "~ 04/20(토)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47953017&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "HL홀딩스",
+        "title": "[HL홀딩스] 2024년 부문별 경력사원 채용",
+        "career": "신입·경력",
+        "address": "서울 강남구 역삼로25길 35",
+        "deadline": "~ 04/22(월)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47948944&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)DB하이텍",
+        "title": "[DB하이텍] 2024년 상반기 신입사원 채용",
+        "career": "신입",
+        "address": "경기 부천시 수도로 90",
+        "deadline": "~ 04/22(월)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47918502&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "SELPEO",
+        "title": "100% 재택근무 Content  Writer 구인",
+        "career": "신입·경력",
+        "address": "말레이시아 말레이시아",
+        "deadline": "내일마감",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47963350&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)유라",
+        "title": "(주)유라(구매,영업, IT, 제조, 품질) 수시모집",
+        "career": "경력무관",
+        "address": "경기 성남시 분당구 판교로 308",
+        "deadline": "~ 04/22(월)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47958599&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "에스디바이오센서(주)",
+        "title": "에스디바이오센서(주) 빅데이터/전기화학센서 개발자 모집",
+        "career": "신입·경력",
+        "address": "경기 수원시 영통구 덕영대로1556번길 16 디지털엠파이어빌딩",
+        "deadline": "~ 04/28(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47961674&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)두원전자통신",
+        "title": "2024년 상반기 각 분야별 경력사원 모집",
+        "career": "경력",
+        "address": "경기 부천시 석천로 397, 301동 408호",
+        "deadline": "~ 04/24(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47825886&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)서연이화",
+        "title": "R&D 지능화 전담 경력 연구원 수시모집",
+        "career": "경력",
+        "address": "경기 안양시 동안구 부림로170번길 41-22",
+        "deadline": "~ 04/28(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47940025&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)이프정보시스템",
+        "title": "금융IT, 은행IT, 증권IT, 프론트엔드, 백엔드 개발자 신입, 경력",
+        "career": "신입·경력",
+        "address": "서울 강서구 마곡서로 152, 비동801호,802호,803호,804호,821호,822호,823호",
+        "deadline": "~ 04/26(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47931807&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)제이슨",
+        "title": "[안랩/제이슨] (경력모집)프론트/파이썬/빅데이터/PM/영업",
+        "career": "신입·경력",
+        "address": "서울 마포구 양화로 61, 7층, 8층",
+        "deadline": "~ 04/17(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47801096&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)이콜트리",
+        "title": "소프트웨어 연구 엔지니어 경력/신입 채용 (정규직)",
+        "career": "신입·경력",
+        "address": "서울 강남구 테헤란로22길 14 , 7층",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47934017&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(사)한국아이씨티기술협회",
+        "title": "[국비무료IT취업]자바/웹앱/프론트·백엔드/풀스택/빅데이터 외",
+        "career": "경력무관",
+        "address": "서울 마포구 백범로 23, 3층, 지하1층 7호, 9호",
+        "deadline": "~ 04/17(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47807276&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)코난테크놀로지",
+        "title": "2024년 상반기 각 부문 신입/경력 상시 채용",
+        "career": "신입·경력",
+        "address": "서울 서초구 강남대로 327 대륭서초타워",
+        "deadline": "~ 07/31(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47370206&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "시냅스이미징(주)",
+        "title": "[시냅스 이미징] 각 부문 신입 / 경력 채용",
+        "career": "경력무관",
+        "address": "경기 군포시 고산로 166, 102동 505호",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47921836&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "유진투자선물(주)",
+        "title": "유진투자선물 IT개발/운영, 선물영업 신입/경력사원 채용",
+        "career": "신입·경력",
+        "address": "서울 영등포구 국제금융로 39, 15층",
+        "deadline": "~ 04/28(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47888735&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)피타소프트",
+        "title": "피타소프트 각 부문별 채용 (개발, 마케팅)",
+        "career": "신입·경력",
+        "address": "경기 성남시 분당구 판교로 331, 4층",
+        "deadline": "~ 04/25(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47975572&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)동아엘텍",
+        "title": "SW개발 신입/경력채용",
+        "career": "신입·경력",
+        "address": "경기 안양시 동안구 시민대로327번길 12-24",
+        "deadline": "~ 04/19(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47780291&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)앤씨앤",
+        "title": "[앤씨앤/넥스트칩] 2024년 4월 연구소, 영업마케팅 각 부문 모집",
+        "career": "신입·경력",
+        "address": "경기 성남시 분당구 대왕판교로 660, A동 5층",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47865244&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)가치소프트",
+        "title": "2024 (주)가치소프트 분야별 채용 공고",
+        "career": "신입·경력",
+        "address": "세종 집현중앙4로 50",
+        "deadline": "~ 05/12(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47983963&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "한미반도체㈜",
+        "title": "[한미반도체] 소프트웨어연구본부(신입/경력) 채용",
+        "career": "신입·경력",
+        "address": "인천 서구 가좌동 532-2",
+        "deadline": "~ 05/02(목)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47913031&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "에이스휴먼파워(주)",
+        "title": "[본사] 한국평가데이터(KoDATA) 데이터 추출/가공 (SQL, DBMS)",
+        "career": "경력무관",
+        "address": "서울 영등포구 의사당대로 21 한국평가데이터",
+        "deadline": "~ 04/19(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47871836&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)트윔",
+        "title": "[면접비 지급] 인공지능 기반 머신비전 연구개발",
+        "career": "신입·경력",
+        "address": "경기 화성시 삼성1로4길 7-4",
+        "deadline": "~ 04/24(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47849100&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)에스피파트너스",
+        "title": "2024년 에스피파트너스 상반기 추가 채용 공고",
+        "career": "신입",
+        "address": "대구 동구 메디밸리로 5-21 휴플러스타워 204호",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47863745&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)피아이이",
+        "title": "㈜피아이이 신입/경력사원 공개채용",
+        "career": "신입·경력",
+        "address": "경기 화성시 동탄기흥로 614, 19층",
+        "deadline": "~ 04/30(화)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47868816&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)사람인에이치에스",
+        "title": "[대기업/연3,100만/유연근무/워라밸] AI데이터라벨링/검수 채용",
+        "career": "경력무관",
+        "address": "경기 성남시 분당구 대왕판교로 670 유스페이스2",
+        "deadline": "채용시",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47799748&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)아크로퓨처",
+        "title": "2024년 상반기 IT개발부문 신입/경력 채용",
+        "career": "경력무관",
+        "address": "서울 강남구 도곡로2길 14, 규원빌딩 3층",
+        "deadline": "~ 05/24(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47856779&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "피씨엔오티(주)",
+        "title": "PLC제어/전장설계/배선/SW개발/머신비전/CAD/SET-UP/CS/구매",
+        "career": "신입·경력",
+        "address": "경기 화성시 떡전골로 96-4, 702호",
+        "deadline": "~ 05/10(금)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47965204&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)엔디소프트",
+        "title": "[NDSOFT] 2024년도 개발자 / 설계 및 운용 채용공고",
+        "career": "경력무관",
+        "address": "서울 강남구 테헤란로 123 여삼빌딩 5층 520호",
+        "deadline": "~ 05/26(일)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47871321&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "트리플에이치(주)",
+        "title": "2024년 트리플에이치 신입 /경력직원 채용",
+        "career": "경력무관",
+        "address": "서울 강남구 테헤란로81길 13, 10층",
+        "deadline": "~ 05/15(수)",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47794680&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    },
+    {
+        "company": "(주)미스터픽",
+        "title": "[첫차]와 함께 할 데이터 분석 매니저를 찾습니다.",
+        "career": "경력무관",
+        "address": "서울 강남구 테헤란로 447 KB우준타워 16층",
+        "deadline": "상시채용",
+        "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=47867029&location=ts&searchword=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&searchType=search&paid_fl=n&search_uuid=525ab70e-fbed-4c6d-9a2f-224c8876f137"
+    }
+]

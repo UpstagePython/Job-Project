@@ -1,0 +1,554 @@
+[
+    {
+        "company": "피어테크(지닥)",
+        "title": "[병역특례_보충역/전직] 프론트엔드 개발",
+        "career": "경력 1-5년",
+        "address": "서울 강남구 봉은사로 112길 6 , 3층 (익성빌딩)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/212278"
+    },
+    {
+        "company": "룩코",
+        "title": "모바일 프론트 엔지니어",
+        "career": "경력 1-10년",
+        "address": "서울 강남구 테헤란로 43길 18, SC빌딩 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/104151"
+    },
+    {
+        "company": "모멘티",
+        "title": "프론트엔드 개발자 (1~5년)",
+        "career": "경력 1-5년",
+        "address": "서울특별시 강남구 역삼동 605-23, 4층 (송호빌딩)",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/130434"
+    },
+    {
+        "company": "타이로스코프",
+        "title": "[울산 근무] 프론트엔드 엔지니어(React Native)",
+        "career": "경력 1-4년",
+        "address": "울산광역시 중구 종가로 313 2204호 타이로스코프",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/166293"
+    },
+    {
+        "company": "핀업",
+        "title": "응용프로그램 프론트 엔드 개발자",
+        "career": "경력 1-3년",
+        "address": "서울시 강남구 삼성로95길 10, 2-4층",
+        "deadline": "2024.04.16",
+        "link": "https://www.wanted.co.kr/wd/210331"
+    },
+    {
+        "company": "제이제이앤컴퍼니스",
+        "title": "S/W 팀 프론트엔드 엔지니어",
+        "career": "경력 1-5년",
+        "address": "부산광역시 해운대구 센텀중앙로 78, 1705호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/201106"
+    },
+    {
+        "company": "서우제이앤디(신사호텔지점)",
+        "title": "[포포인츠바이쉐라톤서울강남] 객실부 Front Desk 주임",
+        "career": "신입-경력 2년",
+        "address": "서울특별시 강남구 도산대로 203",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/136112"
+    },
+    {
+        "company": "세무통",
+        "title": "프런트엔드 개발자",
+        "career": "경력 1-7년",
+        "address": "금천구 디지털로9길 41, 삼성IT해링턴타워 909호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/136764"
+    },
+    {
+        "company": "메이아이",
+        "title": "Frontend Engineer (Product)",
+        "career": "경력 1-5년",
+        "address": "삼성로85길 26, V&S빌딩 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/190649"
+    },
+    {
+        "company": "마이다스아이티",
+        "title": "RPM 프론트엔드 개발자",
+        "career": "경력 1-30년",
+        "address": "성남 분당구 판교로 228번길 17, 마이다스아이티",
+        "deadline": "2024.04.28",
+        "link": "https://www.wanted.co.kr/wd/214458"
+    },
+    {
+        "company": "클라우드호스피탈",
+        "title": "프론트엔드 웹 개발자 React.js / Next.js (1~3년)",
+        "career": "경력 1-3년",
+        "address": "서울 서초구 서초대로 398 BNK 디지털 타워 (패스트파이브 강남3호점) 5층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207121"
+    },
+    {
+        "company": "커머스리그",
+        "title": "서비스 프론트엔드 개발",
+        "career": "신입-경력 2년",
+        "address": "서울특별시 강남구 역삼로17길 16 (역삼동) 해오름빌딩 2층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/214722"
+    },
+    {
+        "company": "인포그랩",
+        "title": "Frontend 소프트웨어 엔지니어",
+        "career": "신입-경력 6년",
+        "address": "경기도 성남시 분당구 백현로101번길 17",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/138506"
+    },
+    {
+        "company": "피어테크(지닥)",
+        "title": "프론트엔드 개발",
+        "career": "경력 1-5년",
+        "address": "서울 강남구 봉은사로 112길 6 , 3층 (익성빌딩)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/212028"
+    },
+    {
+        "company": "래티브",
+        "title": "프론트엔드 웹 개발자",
+        "career": "경력 1-5년",
+        "address": "서울시 강남구 논현로 131길 20 스파이더센터",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/166648"
+    },
+    {
+        "company": "카본사우루스",
+        "title": "프론트엔드 개발자 (1년이상)",
+        "career": "경력 1-5년",
+        "address": "서울시 마포구 마포대로 78 (제2서울핀테크랩), 11층 1114호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213779"
+    },
+    {
+        "company": "수성엔지니어링",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-3년",
+        "address": "서울특별시 송파구 정의로8길",
+        "deadline": "2024.05.08",
+        "link": "https://www.wanted.co.kr/wd/205405"
+    },
+    {
+        "company": "크리스비",
+        "title": "프론트엔드 개발자 (Associate)",
+        "career": "신입-경력 3년",
+        "address": "마포구 마포대로 122, 프론트원 13층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213487"
+    },
+    {
+        "company": "룰루메딕",
+        "title": "FrontEnd 개발자 Jr.(3년 이하)",
+        "career": "신입-경력 3년",
+        "address": "테헤란로 87길 29",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212242"
+    },
+    {
+        "company": "키트웍스",
+        "title": "프론트엔드 웹프로그래머 (Vue.js, React) 1~4년차",
+        "career": "경력 1-4년",
+        "address": "영등포구 양평로 20 타워020 6층",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/214985"
+    },
+    {
+        "company": "레몬클라우드",
+        "title": "프론트엔드 개발자",
+        "career": "신입",
+        "address": "서울 송파구 위례성대로16길 9 (방이동)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213831"
+    },
+    {
+        "company": "에스투더블유(S2W)",
+        "title": "Frontend Engineer (React)",
+        "career": "신입-경력 3년",
+        "address": "경기도 성남시 분당구 판교역로192번길 12, 3층 (삼평동, 판교미래에셋센터)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212752"
+    },
+    {
+        "company": "애디터(Yess)",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-10년",
+        "address": "서울특별시 강남구 테헤란로 79길 6, 스테이지나인 삼성점",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/158199"
+    },
+    {
+        "company": "디어라운드",
+        "title": "프론트 개발자",
+        "career": "경력 1-2년",
+        "address": "서울특별시 강남구",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215056"
+    },
+    {
+        "company": "두잇 (Doeat)",
+        "title": "Frontend Developer",
+        "career": "경력 1-20년",
+        "address": "서울시 관악구 남부순환로 1925 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211925"
+    },
+    {
+        "company": "플랫포스",
+        "title": "프론트엔드 개발자 (3년 이하)",
+        "career": "경력 1-3년",
+        "address": "종로구 인사동5길 25 하나로빌딩 403호",
+        "deadline": "2024.06.28",
+        "link": "https://www.wanted.co.kr/wd/213083"
+    },
+    {
+        "company": "디케이앤트",
+        "title": "프론트엔드 개발자 (신입~5년이하)",
+        "career": "경력 1-5년",
+        "address": "서울 송파구 송파대로20길 4 헤브론복합빌딩 302호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213733"
+    },
+    {
+        "company": "샐러드랩",
+        "title": "이커머스 솔루션 웹 Frontend 개발자",
+        "career": "신입-경력 7년",
+        "address": "강남구 테헤란로 78길 14-11 8층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/201712"
+    },
+    {
+        "company": "피나클 FINAKLE",
+        "title": "프론트 개발자 (1년 이상)",
+        "career": "경력 1-2년",
+        "address": "성남시 분당구 분당내곡로 151(삼평동), 삼도타워 1101호",
+        "deadline": "2024.04.15",
+        "link": "https://www.wanted.co.kr/wd/184073"
+    },
+    {
+        "company": "구름",
+        "title": "프론트엔드 개발자 (디자인 시스템)",
+        "career": "신입-경력 5년",
+        "address": "성남시 분당구 판교로 242 PDC A동 9층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213754"
+    },
+    {
+        "company": "아이엠에스커넥트",
+        "title": "FMS(차량관제)플랫폼 프론트엔드 개발(웹/앱 UI) 주니어(~3년차)",
+        "career": "경력 1-3년",
+        "address": "서울 광진구 아차산로355",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/156079"
+    },
+    {
+        "company": "클래스유",
+        "title": "프론트엔드 개발자 (F.E)",
+        "career": "경력 1-8년",
+        "address": "서울특별시 중구 을지로 264 11층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/62722"
+    },
+    {
+        "company": "캐낸다",
+        "title": "프론트엔드 개발자 및 UI/UX 전문가",
+        "career": "경력 1-2년",
+        "address": "서울특별시 강남구",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212337"
+    },
+    {
+        "company": "팀오투(카모아)",
+        "title": "병역특례 보충역 프론트엔드 REACT 개발자 (신입)",
+        "career": "신입",
+        "address": "테헤란로2길 21, 타워300 9,10층 (주)팀오투/카모아",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/214443"
+    },
+    {
+        "company": "지바이크(gbike)",
+        "title": "[100억↑투자] 프론트엔드 개발자",
+        "career": "경력 1-2년",
+        "address": "강남구 테헤란로4길 28, 12층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/193260"
+    },
+    {
+        "company": "모멘티",
+        "title": "프론트엔드 개발자",
+        "career": "신입",
+        "address": "서울특별시 강남구 역삼동 605-23, 4층 (송호빌딩)",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/79033"
+    },
+    {
+        "company": "아이비베리",
+        "title": "웹 프론트엔드 개발",
+        "career": "경력 1-25년",
+        "address": "구로구 디지털로33길 50",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/117677"
+    },
+    {
+        "company": "페이타랩(패스오더)",
+        "title": "[200억↑투자] 웹 프론트엔드 개발자(JavaScript, React) (서울)",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 강남구 영동대로 85길 34, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/45651"
+    },
+    {
+        "company": "브리치",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-5년",
+        "address": "강남구 봉은사로18길 85 아트리아빌딩 L1",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/174518"
+    },
+    {
+        "company": "한터글로벌",
+        "title": "서비스개발실 프론트엔드 개발자 신입",
+        "career": "신입",
+        "address": "서울특별시 강남구 봉은사로109길",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/209844"
+    },
+    {
+        "company": "트랄라랩",
+        "title": "[Blockchain] Frontend Engineer (1년 이상)",
+        "career": "경력 1-5년",
+        "address": "경기도 성남시 분당구 판교역로192번길 14-1",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/202871"
+    },
+    {
+        "company": "엑스페이스",
+        "title": "React/React native 프론트엔드 개발자",
+        "career": "경력 1-4년",
+        "address": "역삼동 656-34, 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/210590"
+    },
+    {
+        "company": "잇다반도체",
+        "title": "프론트엔드 엔지니어 (SOC 노코드 플랫폼 개발)",
+        "career": "경력 1-15년",
+        "address": "경기 화성시 동탄역로 160, 지하3층, 103호 (오산동,동탄역 롯데백화점)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/214373"
+    },
+    {
+        "company": "아이포트폴리오",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-5년",
+        "address": "서울특별시 중구 남대문로 9길 24, 11층 (다동, 패스트파이브 타워)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207749"
+    },
+    {
+        "company": "피노키오랩",
+        "title": "프론트엔드 개발자(Flutter) 신입",
+        "career": "신입",
+        "address": "서울특별시 강남구 테헤란로13길 8-10, 2층 (역삼동, 동영빌딩)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/214814"
+    },
+    {
+        "company": "카운터컬쳐컴퍼니(ED KPOP)",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-5년",
+        "address": "서울특별시 강남구 선릉로 818 위워크 디자이너클럽",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/166761"
+    },
+    {
+        "company": "페이타랩(패스오더)",
+        "title": "[200억↑투자] 웹 프론트엔드 개발자(병역특례/산업기능요원/보충역/전직)",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 강남구 영동대로 85길 34, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/78227"
+    },
+    {
+        "company": "엘리스",
+        "title": "[신입] 프론트엔드 개발자",
+        "career": "신입",
+        "address": "서울시 강남구 선릉로 433 세방빌딩 6층, 16층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/205938"
+    },
+    {
+        "company": "쿼타랩(쿼타북)",
+        "title": "[100억↑투자] Frontend Software Engineer",
+        "career": "경력 1-10년",
+        "address": "서울특별시 강남구 테헤란로52길 21, 파라다이스벤처타워 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/70525"
+    },
+    {
+        "company": "토스플레이스",
+        "title": "Frontend Developer",
+        "career": "경력 1-15년",
+        "address": "서울특별시 강남구 테헤란로 131, 17층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207573"
+    },
+    {
+        "company": "수거봇",
+        "title": "프론트 개발자(Vue.js)(1년 이상)",
+        "career": "경력 1-3년",
+        "address": "서울 성동구 성수이로 51 서울숲한라시그마밸리 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211670"
+    },
+    {
+        "company": "비욘드메디슨",
+        "title": "Flutter 프론트엔드 개발자",
+        "career": "경력 1-10년",
+        "address": "서울시 강남구 역삼동 824-12 메가시티 403호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212146"
+    },
+    {
+        "company": "라라잡(동네알바)",
+        "title": "프론트엔드 개발자(React Native)",
+        "career": "경력 1-15년",
+        "address": "서울특별시 강남구 테헤란로2길 27, 패스트파이브 강남5호점 921호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/202543"
+    },
+    {
+        "company": "버블클라우드",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-5년",
+        "address": "부산 금정구 부산대학로50번길 68",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/209877"
+    },
+    {
+        "company": "체인위드",
+        "title": "블록체인 지갑 및 AI 플랫폼 프론트엔드",
+        "career": "신입-경력 15년",
+        "address": "서울 성동구 연무장5가길 25 SKV1 타워 1712호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/196991"
+    },
+    {
+        "company": "닥커넥트",
+        "title": "Frontend 개발자",
+        "career": "신입-경력 3년",
+        "address": "인천광역시 연수구 송도국제대로 157 오네스타 5층 (주)닥커넥트",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/203321"
+    },
+    {
+        "company": "팬마음",
+        "title": "[병역특례 보충역] 웹 프론트엔드 개발자",
+        "career": "신입-경력 2년",
+        "address": "강남구 역삼로3길 17-6, 10층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/205591"
+    },
+    {
+        "company": "피플밤",
+        "title": "프론트엔드 개발 (제주본사/서울근무)",
+        "career": "경력 1-15년",
+        "address": "판교2테크노밸리",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207396"
+    },
+    {
+        "company": "넛지헬스케어(캐시워크)",
+        "title": "프론트엔드 개발자 (병역특례_현역/보충역)",
+        "career": "신입",
+        "address": "서울특별시 강남구 역삼로 136",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/168257"
+    },
+    {
+        "company": "전능아이티",
+        "title": "[Smartdoctor] 프론트엔드 개발자",
+        "career": "신입",
+        "address": "서울시 서초구 효령로53길 21, 신성빌딩 2층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/143409"
+    },
+    {
+        "company": "모두싸인",
+        "title": "그로스 엔지니어 (프론트엔드 / 부산)",
+        "career": "경력 1-3년",
+        "address": "부산 해운대구 센텀중앙로 97 센텀스카이비즈 3610호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/205657"
+    },
+    {
+        "company": "미리디",
+        "title": "프론트엔드 개발자 - 이미지 프로세싱",
+        "career": "경력 1-5년",
+        "address": "디지털로31길 12, 8층 (구로동, 태평양물산)",
+        "deadline": "2024.04.25",
+        "link": "https://www.wanted.co.kr/wd/170838"
+    },
+    {
+        "company": "클럼엘",
+        "title": "신입 Software Engineer (Frontend)",
+        "career": "신입",
+        "address": "서울 강남구 테헤란로26길 12, 제일비전타워 2층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212133"
+    },
+    {
+        "company": "쿼타랩(쿼타북)",
+        "title": "[100억↑투자] Frontend Software Engineer(병역특례/산업기능요원/보충역 전직)",
+        "career": "경력 1-10년",
+        "address": "서울특별시 강남구 테헤란로52길 21, 파라다이스벤처타워 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/196191"
+    },
+    {
+        "company": "선후",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-10년",
+        "address": "경기도 고양시 일산서구 킨텍스로 255 디엠시티스카이뷰 오피스동 18층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/135016"
+    },
+    {
+        "company": "세븐픽쳐스",
+        "title": "[넷플연가] 프론트엔드 엔지니어",
+        "career": "경력 1-5년",
+        "address": "서울특별시 마포구 마포대로 122",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/154280"
+    },
+    {
+        "company": "라쿠카라차",
+        "title": "프론트엔드 개발자",
+        "career": "경력 1-10년",
+        "address": "서울시 강남구 선릉로 86길 26",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/174233"
+    },
+    {
+        "company": "메라키플레이스",
+        "title": "Frontend developer (3년 미만)",
+        "career": "경력 1-3년",
+        "address": "서울특별시 서초구 서초대로77길 55 에이프로스퀘어 7층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/157026"
+    },
+    {
+        "company": "링글잉글리시에듀케이션서비스",
+        "title": "웹 프론트엔드(React) 개발자",
+        "career": "경력 1-10년",
+        "address": "서초구 서초대로78길 22 홍우2빌딩 11층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/91906"
+    }
+]

@@ -1,0 +1,810 @@
+[
+    {
+        "company": "코드잇(codeit)",
+        "title": "[100억↑투자] 교육 PM [백엔드 교육(Spring)]",
+        "career": "경력 1-9년",
+        "address": "중구 청계천로 100 시그니쳐타워 동관 10층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215334"
+    },
+    {
+        "company": "페이타랩(패스오더)",
+        "title": "[200억↑투자] 백엔드 개발자 (병역특례/산업기능요원/보충역/전직)",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 강남구 영동대로 85길 34, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/78230"
+    },
+    {
+        "company": "더커머스",
+        "title": "백엔드 개발자 (신입 지원 가능)",
+        "career": "신입",
+        "address": "서초구 남부순환로350길 36 8층",
+        "deadline": "2024.07.15",
+        "link": "https://www.wanted.co.kr/wd/215318"
+    },
+    {
+        "company": "페이타랩(패스오더)",
+        "title": "[200억↑투자] 백엔드 개발자 (Python, MSA)",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 강남구 영동대로 85길 34, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/196993"
+    },
+    {
+        "company": "페이타랩(패스오더)",
+        "title": "[200억↑투자] 백엔드 개발자 주니어 (Python, MSA)",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 강남구 영동대로 85길 34, 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/45650"
+    },
+    {
+        "company": "비플라이소프트",
+        "title": "아이서퍼팀 백엔드 개발자 (주니어)",
+        "career": "경력 1-3년",
+        "address": "중구 퇴계로 385 (흥인동) 준타워 5,6,8,9층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215208"
+    },
+    {
+        "company": "크레이지알파카",
+        "title": "백엔드 개발자(팀원)",
+        "career": "경력 1-2년",
+        "address": "서울 서초구 서초대로74길 14",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/215180"
+    },
+    {
+        "company": "키트웍스",
+        "title": "백엔드 웹프로그래머 (Spring, MSA) 1~3년",
+        "career": "경력 1-3년",
+        "address": "영등포구 양평로 20 타워020 6층",
+        "deadline": "2024.04.28",
+        "link": "https://www.wanted.co.kr/wd/215156"
+    },
+    {
+        "company": "스풀",
+        "title": "JAVA / Spring Boot 백엔드 신입 개발자",
+        "career": "신입",
+        "address": "서울 마포구 월드컵북로2길 37 206호,321호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215128"
+    },
+    {
+        "company": "케이존",
+        "title": "주니어 백엔드 개발자(신입 ~ 3년차)",
+        "career": "신입-경력 3년",
+        "address": "13449) 경기도 성남시 수정구 대왕판교로 815 판교제2테크노밸리 기업지원허브 혁신기술존 7층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/214617"
+    },
+    {
+        "company": "디피니트",
+        "title": "Backend Engineer",
+        "career": "신입-경력 5년",
+        "address": "서교동 475-1, 2층 (고래빌딩)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/215051"
+    },
+    {
+        "company": "라프텔(Laftel)",
+        "title": "백엔드 엔지니어",
+        "career": "경력 1-8년",
+        "address": "서울시 영등포구 국제금융로 10, 서울국제금융센터 TWO IFC 12층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/121823"
+    },
+    {
+        "company": "엔쓰리엔(N3N)",
+        "title": "Server Engineer 개발자(팀장급)",
+        "career": "경력 1-10년",
+        "address": "강남구 강남대로162길 41-18",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213101"
+    },
+    {
+        "company": "모멘티",
+        "title": "백엔드 개발자 (1~5년)",
+        "career": "경력 1-10년",
+        "address": "서울특별시 강남구 역삼동 605-23, 4층 (송호빌딩)",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/130436"
+    },
+    {
+        "company": "모멘티",
+        "title": "백엔드 개발자",
+        "career": "신입",
+        "address": "서울특별시 강남구 역삼동 605-23, 4층 (송호빌딩)",
+        "deadline": "2024.04.21",
+        "link": "https://www.wanted.co.kr/wd/63069"
+    },
+    {
+        "company": "핀다(FINDA)",
+        "title": "주니어 백엔드 개발자 (마이데이터)",
+        "career": "경력 1-5년",
+        "address": "서울 강남구 테헤란로 518, (대치동) 한국섬유산업연합회 4층 핀다",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211136"
+    },
+    {
+        "company": "와이피랩스(커넥팅)",
+        "title": "[산업기능요원(병역특례, 보충역)] DevOps/백엔드 개발자",
+        "career": "신입",
+        "address": "서울특별시 강남구 영동대로 424 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/214338"
+    },
+    {
+        "company": "아토머스(마인드카페)",
+        "title": "파이썬 백엔드 개발자",
+        "career": "신입-경력 5년",
+        "address": "강남구 영동대로96길 20 대화빌딩 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/193495"
+    },
+    {
+        "company": "이롬넷",
+        "title": "PayVerse 인프라팀 서버 엔지니어 담당자",
+        "career": "경력 1-6년",
+        "address": "강남구 테헤란로 414 엘앤비타워 10층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/199235"
+    },
+    {
+        "company": "넥서스에이아이",
+        "title": "Infra, 서비스 Backend 개발 (LLM 기반 법률상담 챗봇 서비스)",
+        "career": "경력 1-20년",
+        "address": "서울시 서초구 효령료 17",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213962"
+    },
+    {
+        "company": "텐핑거스(10fingers)",
+        "title": "[데이트팝]Python 백엔드 개발자(주니어)/산업기능요원(보충역)/전직 가능",
+        "career": "신입",
+        "address": "서초구 나루터로 62, 일신빌딩 7층",
+        "deadline": "2024.04.14",
+        "link": "https://www.wanted.co.kr/wd/212259"
+    },
+    {
+        "company": "잇마플",
+        "title": "소프트웨어 개발 - 백엔드 (신입)",
+        "career": "신입",
+        "address": "서울시 강남구 역삼동 669-19, 주암빌딩 2층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/210620"
+    },
+    {
+        "company": "넥슨코리아(NEXON)",
+        "title": "[인텔리전스랩스] 선행프로덕트팀 백엔드 개발자 (Python/Go)",
+        "career": "신입-경력 5년",
+        "address": "경기도 성남시 분당구 판교로 256번길 7, 넥슨",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211877"
+    },
+    {
+        "company": "트랄라랩",
+        "title": "[Blockchain] Backend Engineer (1년 이상)",
+        "career": "경력 1-5년",
+        "address": "경기도 성남시 분당구 판교역로192번길 14-1",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213705"
+    },
+    {
+        "company": "알리고에이아이",
+        "title": "Backend engineer",
+        "career": "경력 1-2년",
+        "address": "서울시 도봉구 마들로 13길 84, 창동아우르네 2층 212호",
+        "deadline": "2024.06.14",
+        "link": "https://www.wanted.co.kr/wd/210512"
+    },
+    {
+        "company": "이스트게임즈",
+        "title": "게임 서버 (툴/인프라) 개발자",
+        "career": "경력 1-20년",
+        "address": "서울 서초구 반포대로3 이스트빌딩 5층(서초동 1464-30)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/196730"
+    },
+    {
+        "company": "이스트게임즈",
+        "title": "게임 서버 개발자",
+        "career": "신입-경력 10년",
+        "address": "서울 서초구 반포대로3 이스트빌딩 5층(서초동 1464-30)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/72134"
+    },
+    {
+        "company": "낭만상회",
+        "title": "백엔드 엔지니어(신입/주니어 0~3년차)",
+        "career": "신입-경력 3년",
+        "address": "서울 강남구 논현로87길 25 HB타워 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213444"
+    },
+    {
+        "company": "카본사우루스",
+        "title": "NodeJS 백엔드 개발자 (1년 이상)",
+        "career": "경력 1-5년",
+        "address": "서울시 마포구 마포대로 78 (제2서울핀테크랩), 11층 1114호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212743"
+    },
+    {
+        "company": "벳칭",
+        "title": "백엔드 엔지니어 (주니어, 1~3년차)",
+        "career": "경력 1-3년",
+        "address": "서울특별시 서초구 강남대로407, 13층(오퍼스407)x",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212716"
+    },
+    {
+        "company": "와트",
+        "title": "서버 개발자",
+        "career": "경력 1-5년",
+        "address": "성남시 수정구 금토로 80번길 11 판교이노베이션랩 지식산업센터 605호",
+        "deadline": "2024.05.01",
+        "link": "https://www.wanted.co.kr/wd/213327"
+    },
+    {
+        "company": "매드업",
+        "title": "주니어 백엔드 개발자 (테크사업부) (전문연구요원 가능)",
+        "career": "경력 1-4년",
+        "address": "서울특별시 강남구 강남대로94길 10 케이스퀘어강남 9층",
+        "deadline": "2024.05.01",
+        "link": "https://www.wanted.co.kr/wd/163187"
+    },
+    {
+        "company": "엔쓰리엔(N3N)",
+        "title": "Server Engineer 개발자(팀원급)",
+        "career": "경력 1-5년",
+        "address": "강남구 강남대로162길 41-18",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/213195"
+    },
+    {
+        "company": "아이포트폴리오",
+        "title": "백엔드 개발자",
+        "career": "경력 1-3년",
+        "address": "서울특별시 중구 남대문로 9길 24, 11층 (다동, 패스트파이브 타워)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/206032"
+    },
+    {
+        "company": "피어테크(지닥)",
+        "title": "[병역특례_보충역/전직] 백엔드 개발",
+        "career": "경력 1-5년",
+        "address": "서울 강남구 봉은사로 112길 6 , 3층 (익성빌딩)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/212281"
+    },
+    {
+        "company": "라익스",
+        "title": "백오피스/백엔드 UIUX 기획자",
+        "career": "경력 1-10년",
+        "address": "서울시 강남구 학동로3길 41 에스피오빌딩 4층",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/203278"
+    },
+    {
+        "company": "피어테크(지닥)",
+        "title": "백엔드 개발",
+        "career": "경력 1-5년",
+        "address": "서울 강남구 봉은사로 112길 6 , 3층 (익성빌딩)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/212031"
+    },
+    {
+        "company": "페이스피에이팍",
+        "title": "[판교] 백엔드 엔지니어",
+        "career": "신입-경력 5년",
+        "address": "분당내곡로 117",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/210366"
+    },
+    {
+        "company": "에스투더블유(S2W)",
+        "title": "Backend Engineer (JAVA)",
+        "career": "신입-경력 3년",
+        "address": "경기도 성남시 분당구 판교역로192번길 12, 3층 (삼평동, 판교미래에셋센터)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212754"
+    },
+    {
+        "company": "디렉셔널",
+        "title": "Backend Developer (Kotlin/Spring Boot)",
+        "career": "경력 1-5년",
+        "address": "서울특별시 영등포구 여의나루로 53-1",
+        "deadline": "2024.04.15",
+        "link": "https://www.wanted.co.kr/wd/172078"
+    },
+    {
+        "company": "파워테스크",
+        "title": "백엔드 개발자",
+        "career": "경력 1-10년",
+        "address": "서울특별시 강남구 역삼로 557, 한국투자액셀러레이터 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211237"
+    },
+    {
+        "company": "닥터다이어리",
+        "title": "백엔드 개발자(주니어)",
+        "career": "경력 1-4년",
+        "address": "서울시 서초구 효령로77길 28, 7층",
+        "deadline": "2024.05.01",
+        "link": "https://www.wanted.co.kr/wd/211975"
+    },
+    {
+        "company": "팝핀타이거",
+        "title": "백엔드 개발자",
+        "career": "신입-경력 2년",
+        "address": "서울특별시 강서구 마곡중앙2로 11, M밸리W타워3차 303호-305호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/212396"
+    },
+    {
+        "company": "두잇 (Doeat)",
+        "title": "Backend Developer",
+        "career": "경력 1-20년",
+        "address": "서울시 관악구 남부순환로 1925 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211927"
+    },
+    {
+        "company": "넥슨유니버스",
+        "title": "메이플스토리N 게임 서버/클라이언트 프로그래머 (C/C++",
+        "career": "경력 1-99년",
+        "address": "경기도 성남시 분당구 판교로256번길 25, 씨3-7 비동",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/188525"
+    },
+    {
+        "company": "클라썸",
+        "title": "[200억↑투자] 백엔드(Node.js) 개발자",
+        "career": "신입-경력 5년",
+        "address": "강남구 테헤란로2길 27 비전타워 1401호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/98933"
+    },
+    {
+        "company": "엘리스",
+        "title": "[신입] 백엔드 엔지니어 (Python)",
+        "career": "신입",
+        "address": "서울시 강남구 선릉로 433 세방빌딩 6층, 16층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/162405"
+    },
+    {
+        "company": "알파브릿지",
+        "title": "RA 백엔드 개발자",
+        "career": "경력 1-15년",
+        "address": "경기도 성남시 분당구 판교역로 192번길 14,9층(삼평동, 리치투게더센터)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/209790"
+    },
+    {
+        "company": "엘리스",
+        "title": "글로벌팀 백엔드 엔지니어 (Python)",
+        "career": "신입-경력 5년",
+        "address": "서울시 강남구 선릉로 433 세방빌딩 6층, 16층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/182859"
+    },
+    {
+        "company": "수거봇",
+        "title": "백엔드 개발자(Python, Django)(1년 이상)",
+        "career": "경력 1-5년",
+        "address": "서울 성동구 성수이로 51 서울숲한라시그마밸리 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/211644"
+    },
+    {
+        "company": "에버스핀",
+        "title": "보안솔루션 서버 기술지원 - 일본 근무",
+        "career": "경력 1-10년",
+        "address": "서울시 동작구 노량진로 188, 9~12F(노량진동, 에버스핀빌딩)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/150146"
+    },
+    {
+        "company": "피플밤",
+        "title": "백엔드 개발자(제주플젝/서울근무)_1년이상",
+        "career": "경력 1-15년",
+        "address": "판교2테크노밸리",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/190046"
+    },
+    {
+        "company": "하이퍼엑셀",
+        "title": "서버 인프라 관리자",
+        "career": "경력 1-5년",
+        "address": "강남구 논현로 75길 8, 비드빌딩 4층",
+        "deadline": "2024.06.20",
+        "link": "https://www.wanted.co.kr/wd/211565"
+    },
+    {
+        "company": "아바티(AVATYE)",
+        "title": "백엔드 개발자",
+        "career": "신입-경력 4년",
+        "address": "경기 성남시 분당구 운중로 249(판교동), 6층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/210953"
+    },
+    {
+        "company": "엑스페이스",
+        "title": "Phython/Django/Linux 백엔드 개발자",
+        "career": "경력 1-4년",
+        "address": "역삼동 656-34, 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/210651"
+    },
+    {
+        "company": "스쿨버스",
+        "title": "백엔드 및 서버 개발자(1년)",
+        "career": "신입",
+        "address": "서울 공항대로 194 퀸즈파크12차 8층 813, 814, 815호",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/203740"
+    },
+    {
+        "company": "아이페이지온",
+        "title": "리눅스 서버 개발자(신입)",
+        "career": "신입",
+        "address": "서울시 강남구 테헤란로 14길5, 9층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/210676"
+    },
+    {
+        "company": "비모소프트",
+        "title": "백엔드 개발자",
+        "career": "신입-경력 5년",
+        "address": "경기도 안양시 동안구 시민대로 327번길 11-35 (관양동) 엠투아이건물 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/183071"
+    },
+    {
+        "company": "지엔에이컴퍼니",
+        "title": "[플레이오][신입] Python 백엔드 개발",
+        "career": "신입",
+        "address": "서울시 서초구 방배로 27길 8, 3층",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/193602"
+    },
+    {
+        "company": "테일크루(Talecrew)",
+        "title": "백엔드 개발자(Python, Django)",
+        "career": "경력 1-5년",
+        "address": "경기도 성남시 분당구 판교역로 230 삼환하이펙스 B동 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207366"
+    },
+    {
+        "company": "세나클소프트",
+        "title": "[200억↑투자] Backend Server 개발(병역특례/산업기능요원/보충역/전직)",
+        "career": "신입-경력 4년",
+        "address": "서울시 강남구 테헤란로 44길 8",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/196059"
+    },
+    {
+        "company": "트러스트랩스",
+        "title": "서버 개발자",
+        "career": "경력 1-5년",
+        "address": "강남구",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/209421"
+    },
+    {
+        "company": "에스제이에이치스튜디오",
+        "title": "서버 개발자",
+        "career": "신입-경력 9년",
+        "address": "재택",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/163538"
+    },
+    {
+        "company": "트렌비",
+        "title": "백엔드 개발자 주니어",
+        "career": "신입-경력 4년",
+        "address": "서초구 서초대로77길 41, 대동II빌딩 11층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208748"
+    },
+    {
+        "company": "더즌(dozn)",
+        "title": "코어뱅킹파트 백엔드 개발자",
+        "career": "경력 1-3년",
+        "address": "서초구 강남대로 465 강남교보타워 4층, 16층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208456"
+    },
+    {
+        "company": "이롬넷",
+        "title": "PayVerse 개발팀 백오피스 담당",
+        "career": "경력 1-5년",
+        "address": "강남구 테헤란로 414 엘앤비타워 10층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208566"
+    },
+    {
+        "company": "아이지에이웍스(IGAWorks)",
+        "title": "[500억↑투자] 백엔드 개발자 (TW DSP)",
+        "career": "신입-경력 5년",
+        "address": "서울시 용산구 서빙고로 17, 센트럴파크타워 24, 25, 26층",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/16942"
+    },
+    {
+        "company": "아이지에이웍스(IGAWorks)",
+        "title": "[500억↑투자] 백엔드 엔지니어 [디파이너리]",
+        "career": "경력 1-5년",
+        "address": "서울시 용산구 서빙고로 17, 센트럴파크타워 24, 25, 26층",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/125356"
+    },
+    {
+        "company": "아틀라스네트웍스",
+        "title": "BackEnd Developer (GOlang)",
+        "career": "신입-경력 3년",
+        "address": "서울특별시 구로구 경인로53길 90 (에스티엑스 더블유 타워) 1007호, 1008호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/72912"
+    },
+    {
+        "company": "아이티이지",
+        "title": "[개발팀] 백엔드 담당자",
+        "career": "신입-경력 5년",
+        "address": "서초구 서초대로 250 3층 (스타갤러리브릿지)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/208073"
+    },
+    {
+        "company": "케이바이러스연구소",
+        "title": "백엔드 개발자(1년차 이상)",
+        "career": "경력 1-3년",
+        "address": "서울특별시 강서구 화곡로 416 지하1층 107호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/207509"
+    },
+    {
+        "company": "크리에이터노믹",
+        "title": "백엔드 개발자 (3년 이상)",
+        "career": "경력 1-3년",
+        "address": "서울특별시 종로구 종로 6 광화문우체국, 5층 스타트업 빌리지",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/206642"
+    },
+    {
+        "company": "리본솔루션",
+        "title": "백엔드 및 서버 개발자",
+        "career": "경력 1-5년",
+        "address": "인천광역시 남동구 은봉로 297, 별동 2, 3층 남동구청년창업지원센터",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/206265"
+    },
+    {
+        "company": "베링랩",
+        "title": "백엔드 개발자 (Rust)",
+        "career": "경력 1-5년",
+        "address": "서울시 강남구 봉은사로 524 스파크플러스 B1F",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/206209"
+    },
+    {
+        "company": "에이치투오호스피탈리티",
+        "title": "[H2O KOREA] 예약사업부 개발팀 백엔드 개발자",
+        "career": "경력 1-3년",
+        "address": "서울특별시 강남구 논현로98길 28, 2층(역삼동)",
+        "deadline": "2024.04.30",
+        "link": "https://www.wanted.co.kr/wd/206009"
+    },
+    {
+        "company": "부스터스",
+        "title": "[100억↑투자] 주니어 백엔드 개발자",
+        "career": "경력 1-5년",
+        "address": "서울시 강남구 테헤란로 415, L7 HOTEL 강남타워 스파크플러스 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/170049"
+    },
+    {
+        "company": "라이트뷰",
+        "title": "Server & Web Engineer",
+        "career": "신입",
+        "address": "서울특별시 마포구 양화로 147",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/95315"
+    },
+    {
+        "company": "토스플레이스",
+        "title": "Server Developer (Platform)",
+        "career": "경력 1-15년",
+        "address": "서울특별시 강남구 테헤란로 131, 17층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/204055"
+    },
+    {
+        "company": "넛지헬스케어(캐시워크)",
+        "title": "백엔드 개발자(Node.js)(병역특례_현역/보충역)",
+        "career": "신입",
+        "address": "서울특별시 강남구 역삼로 136",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/85836"
+    },
+    {
+        "company": "론픽",
+        "title": "백엔드 개발자 (1년 이상)",
+        "career": "경력 1-3년",
+        "address": "부산시 해운대구 센텀중앙로 97, 1411호 (재송동,센텀스카이비즈)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/203843"
+    },
+    {
+        "company": "인플루디오",
+        "title": "[포카마켓] 백엔드 Django 개발자 (1년 이상)",
+        "career": "경력 1-3년",
+        "address": "서울특별시 마포구 와우산로29길 48-24",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/180901"
+    },
+    {
+        "company": "머니투데이",
+        "title": "Server Developer(Web/PHP)",
+        "career": "신입-경력 5년",
+        "address": "서울 종로구 청계천로11 청계11빌딩",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/11018"
+    },
+    {
+        "company": "메라키플레이스",
+        "title": "Backend developer",
+        "career": "경력 1-7년",
+        "address": "서울특별시 서초구 서초대로77길 55 에이프로스퀘어 7층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/92592"
+    },
+    {
+        "company": "케이에프지지",
+        "title": "UCC(Urban Country Club) Server",
+        "career": "신입-경력 30년",
+        "address": "남양주시 다산중앙로 153 2층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/201694"
+    },
+    {
+        "company": "넥슨코리아(NEXON)",
+        "title": "[인텔리전스랩스] 넥슨 공용 게임 서버 엔진 개발자",
+        "career": "경력 1-99년",
+        "address": "경기도 성남시 분당구 판교로 256번길 7, 넥슨",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/201465"
+    },
+    {
+        "company": "전능아이티",
+        "title": "[Smartdoctor] 백엔드 개발자",
+        "career": "신입",
+        "address": "서울시 서초구 효령로53길 21, 신성빌딩 2층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/143424"
+    },
+    {
+        "company": "한국모바일결제",
+        "title": "Node.js 백엔드 개발자 (1~2년 이상)",
+        "career": "경력 1-5년",
+        "address": "서울특별시 강남구 역삼동 826-26, 15층",
+        "deadline": "2024.06.28",
+        "link": "https://www.wanted.co.kr/wd/187808"
+    },
+    {
+        "company": "기어세컨드",
+        "title": "서버 프로그래머",
+        "career": "신입-경력 10년",
+        "address": "서울특별시 마포구 홍익로 25, 3층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/187951"
+    },
+    {
+        "company": "엔코아",
+        "title": "[신입] 부트캠프 강사(인공지능/빅데이터/백엔드)",
+        "career": "신입",
+        "address": "서울시 금천구 가산디지털1로 25, 대륭테크노타운 17차 18층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/189220"
+    },
+    {
+        "company": "클러스터지원그룹",
+        "title": "[신입] 서버 시스템 관리자",
+        "career": "신입",
+        "address": "경기도 군포시 공단로 149, 408호(당동, 아이밸리군포)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/182723"
+    },
+    {
+        "company": "이글로벌시스템",
+        "title": "[신입] 백엔드/서버 개발자",
+        "career": "신입",
+        "address": "서울시 강남구 선릉로 93길54 일환빌딩 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/182714"
+    },
+    {
+        "company": "이글로벌시스템",
+        "title": "백엔드/서버 개발자",
+        "career": "경력 1-3년",
+        "address": "서울시 강남구 선릉로 93길54 일환빌딩 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/99189"
+    },
+    {
+        "company": "코멘토",
+        "title": "백엔드 개발자 (PHP)",
+        "career": "신입-경력 5년",
+        "address": "서울특별시 중구 한강대로 416, 서울스퀘어 4층 103호",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/55869"
+    },
+    {
+        "company": "데일리펀딩",
+        "title": "Back-end 개발자(백엔드)",
+        "career": "경력 1-5년",
+        "address": "서울시 강남구 도산대로 157, 12층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/88904"
+    },
+    {
+        "company": "엔코아",
+        "title": "부트캠프 강사(인공지능/빅데이터/백엔드)",
+        "career": "경력 1-20년",
+        "address": "서울시 금천구 가산디지털1로 25, 대륭테크노타운 17차 18층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/154068"
+    },
+    {
+        "company": "라쿠카라차",
+        "title": "백엔드 개발자",
+        "career": "경력 1-10년",
+        "address": "서울시 강남구 선릉로 86길 26",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/174552"
+    },
+    {
+        "company": "비브스튜디오스",
+        "title": "R&D연구소 Client/Server 프로그램 개발",
+        "career": "경력 1-6년",
+        "address": "언주로727, 1층 비브스튜디오스 R&D연구소",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/173945"
+    },
+    {
+        "company": "넥슨코리아(NEXON)",
+        "title": "[인텔리전스랩스] 백엔드 개발자",
+        "career": "경력 1-99년",
+        "address": "경기도 성남시 분당구 판교로 256번길 7, 넥슨",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/107044"
+    },
+    {
+        "company": "애디터(Yess)",
+        "title": "Backend Developer (백엔드 개발자)",
+        "career": "경력 1-10년",
+        "address": "서울특별시 강남구 테헤란로 79길 6, 스테이지나인 삼성점",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/17243"
+    },
+    {
+        "company": "크레비스파트너스(도너스)",
+        "title": "SaaS 백엔드 개발자 (전문연구요원 가능)",
+        "career": "신입",
+        "address": "서울특별시 성동구 왕십리로 88 노벨빌딩 4층",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/6322"
+    },
+    {
+        "company": "엠토스솔루션스",
+        "title": "전략기술본부 서버 엔지니어",
+        "career": "신입-경력 3년",
+        "address": "서울특별시 금천구 가산디지털1로 219, 811호,1112호(가산동,벽산디지털밸리6차)",
+        "deadline": "상시채용",
+        "link": "https://www.wanted.co.kr/wd/85799"
+    }
+]
