@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # Geocoding API를 통해 주소를 위도, 경도로 변환하는 함수
 def geocode(address):
-    api_key = 'API-KEY'  # Google Maps API 키
+    api_key = 'AIzaSyBCXE0NK4nVfUMjqmHmpb2LjegoviWznR4'  # Google Maps API 키
     base_url = f'https://maps.googleapis.com/maps/api/geocode/json?address={address}&key={api_key}'
     response = requests.get(base_url)
     data = response.json()
