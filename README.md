@@ -1,3 +1,10 @@
+# 팀원
+| 성명기 | 유정수 | 최제우 |
+|:---:|:---:| :---:|
+| [![](https://avatars.githubusercontent.com/u/104310191?v=4)](https://github.com/SUNGMYEONGGI) | [![](https://avatars.githubusercontent.com/u/50096716?v=4)](https://github.com/Dream-Forge-Studios) | [![](https://avatars.githubusercontent.com/u/109427552?v=4)](https://github.com/JeWoo-Choi) |
+
+<br>
+
 # 채용 정보 사이트 크롤링을 통한 채용 지도 만들기
 
 ## 1. 작품 설명
@@ -37,3 +44,5 @@ streamlit run main.py
 ### Google Maps API
 - https://blog.cosmosfarm.com/archives/414/%EA%B5%AC%EA%B8%80-%EC%A7%80%EC%98%A4%EC%BD%94%EB%94%A9-api-%ED%82%A4-%EB%B0%9C%EA%B8%89-%EB%B0%9B%EB%8A%94-%EB%B0%A9%EB%B2%95-geocoding-api/
 
+## 7. 프로젝트 결과 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elo9sOQSnpk?si=0ur9lMD3_ZrZtd4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
