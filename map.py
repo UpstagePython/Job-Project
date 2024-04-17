@@ -5,13 +5,22 @@ import requests
 import pydeck as pdk
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+from dotenv import load_dotenv # .env 파일을 로드하기 위한 라이브러리
+import os
+
+# .env 파일로부터 환경변수 로드
+load_dotenv()
 
 # Geocoding API를 통해 주소를 위도, 경도로 변환하는 함수
 def geocode(address):
-    api_key = 'AIzaSyBCXE0NK4nVfUMjqmHmpb2LjegoviWznR4'  # Google Maps API 키
+    api_key = os.environ.get('API-KEY')  # Google Maps API 키
+    # Google Maps Geocoding API 요청 URL
     base_url = f'https://maps.googleapis.com/maps/api/geocode/json?address={address}&key={api_key}'
+    # Google Maps Geocoding API 요청
     response = requests.get(base_url)
+    # JSON 파싱
     data = response.json()
+    # 변환된 데이터가 있을 경우 위도, 경도 반환
     if data['status'] == 'OK':
         location = data['results'][0]['geometry']['location']
         return location['lat'], location['lng']
@@ -38,8 +47,10 @@ map_data_list = []
 
 # 각 채용 정보의 지역을 위도, 경도로 변환
 for job in jobs:
+    # 주소를 위도, 경도로 변환
     lat, lon = geocode(job['address'])
     if lat is not None and lon is not None:
+        # 변환된 위도, 경도를 리스트에 추가
         map_data_list.append({
             'lat': lat,
             'lon': lon,
@@ -53,6 +64,7 @@ map_data = pd.DataFrame(map_data_list)
 
 # pydeck 레이어 설정
 layer = pdk.Layer(
+    # ScatterplotLayer로 지도에 점을 찍음
     'ScatterplotLayer',
     data=map_data,
     get_position=['lon', 'lat'],
@@ -63,6 +75,7 @@ layer = pdk.Layer(
 )
 
 # pydeck 뷰포트 설정
+# 지도의 중심을 위도, 경도의 평균값으로 설정
 view_state = pdk.ViewState(
     latitude=map_data['lat'].mean(),
     longitude=map_data['lon'].mean(),
