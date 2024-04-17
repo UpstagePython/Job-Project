@@ -45,4 +45,4 @@ streamlit run main.py
 - https://blog.cosmosfarm.com/archives/414/%EA%B5%AC%EA%B8%80-%EC%A7%80%EC%98%A4%EC%BD%94%EB%94%A9-api-%ED%82%A4-%EB%B0%9C%EA%B8%89-%EB%B0%9B%EB%8A%94-%EB%B0%A9%EB%B2%95-geocoding-api/
 
 ## 7. 프로젝트 결과 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/elo9sOQSnpk?si=0ur9lMD3_ZrZtd4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![[패스트캠퍼스] Upstage AI Lab 파이썬 프로젝트 12조 시연영상](https://github.com/SUNGMYEONGGI/image/blob/main/thumbnail1.png?raw=true)](https://www.youtube.com/watch?v=elo9sOQSnpk) 
